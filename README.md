@@ -16,6 +16,7 @@ A curated list of network embedding techniques. The task is to learn the represe
 [[arxiv]](https://arxiv.org/abs/1503.03578) [[original c++ code]](https://github.com/tangjianpku/LINE)
 
 **GraRep**
+
 [Grarep: Learning graph representations with global structural information](http://dl.acm.org/citation.cfm?id=2806512), CIKM'15
 
 [[original matlab code]](https://github.com/ShelsonCao/GraRep)

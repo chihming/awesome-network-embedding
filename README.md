@@ -1,5 +1,9 @@
 # awesome-network-embedding
-A curated list of network embedding techniques. The task is to learn the representations of vertices from a given network.
+A curated list of network embedding techniques.
+
+The task is to learn the representations of vertices from a given network.
+
+<img src="https://github.com/chihming/awesome-network-embedding/raw/master/pic/network_embedding.jpeg" width="480">
 
 # Research References
 

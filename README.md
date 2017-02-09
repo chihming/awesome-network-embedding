@@ -32,3 +32,11 @@ The task is to learn the representations of vertices from a given network.
 [[arxiv]](https://arxiv.org/abs/1607.00653) [[original python code]](https://github.com/aditya-grover/node2vec)
 [[python code2]](https://github.com/apple2373/node2vec)
 
+# Other Similar Research References
+
+**DNGR**
+
+[Deep Neural Networks for Learning Graph Representations](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12423), AAAI'16
+
+[[Matlab]](https://github.com/ShelsonCao/DNGR) [[Keras]](https://github.com/MdAsifKhan/DNGR-Keras)
+

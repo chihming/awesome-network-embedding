@@ -38,6 +38,12 @@ The task is to learn the representations of vertices from a given network.
 
 [[Matlab]](https://github.com/ShelsonCao/DNGR) [[Keras]](https://github.com/MdAsifKhan/DNGR-Keras)
 
+**MMDW**
+
+[Max-Margin DeepWalk: Discriminative Learning of Network Representation], IJCAI'16
+
+[[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2016_mmdw.pdf)  [[Java]](https://github.com/thunlp/MMDW)
+
 # Paper References
 
 [Structural Deep Network Embedding](http://dl.acm.org/citation.cfm?id=2939753), KDD'16

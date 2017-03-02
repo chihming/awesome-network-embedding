@@ -5,7 +5,7 @@ The task is to learn the representations of vertices from a given network.
 
 <img src="https://github.com/chihming/awesome-network-embedding/raw/master/pic/network_embedding.jpeg" width="480">
 
-# Paper References with codes (edgelist-like input format)
+# Paper References with codes
 
 **DeepWalk**
 
@@ -19,12 +19,6 @@ The task is to learn the representations of vertices from a given network.
 
 [[arxiv]](https://arxiv.org/abs/1503.03578) [[original c++ code]](https://github.com/tangjianpku/LINE)
 
-**GraRep**
-
-[Grarep: Learning graph representations with global structural information](http://dl.acm.org/citation.cfm?id=2806512), CIKM'15
-
-[[original matlab code]](https://github.com/ShelsonCao/GraRep)
-
 **node2vec**
 
 [node2vec: Scalable Feature Learning for Networks](http://dl.acm.org/citation.cfm?id=2939672.2939754), KDD'16
@@ -32,7 +26,11 @@ The task is to learn the representations of vertices from a given network.
 [[arxiv]](https://arxiv.org/abs/1607.00653) [[original python code]](https://github.com/aditya-grover/node2vec)
 [[python code2]](https://github.com/apple2373/node2vec)
 
-# Paper References with codes (other input format)
+**GraRep**
+
+[Grarep: Learning graph representations with global structural information](http://dl.acm.org/citation.cfm?id=2806512), CIKM'15
+
+[[original matlab code]](https://github.com/ShelsonCao/GraRep)
 
 **DNGR**
 

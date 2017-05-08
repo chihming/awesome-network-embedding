@@ -53,6 +53,8 @@ The task is to learn the representations of vertices from a given network.
 
 # Paper References
 
+[Scalable Graph Embedding for Asymmetric Proximity](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14696), AAAI'17
+
 [Structural Deep Network Embedding](http://dl.acm.org/citation.cfm?id=2939753), KDD'16
 
 [Query-based Music Recommendations via Preference Embedding](http://dl.acm.org/citation.cfm?id=2959169), RecSys'16

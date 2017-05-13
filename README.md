@@ -59,11 +59,15 @@ The task is to learn the representations of vertices from a given network.
 
 [Query-based Music Recommendations via Preference Embedding](http://dl.acm.org/citation.cfm?id=2959169), RecSys'16
 
+[Tri-party deep network representation](http://dl.acm.org/citation.cfm?id=3060886), IJCAI'16
+
 [PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](http://dl.acm.org/citation.cfm?id=2783307) KDD'15
 
 [Heterogeneous Network Embedding via Deep Architectures](http://dl.acm.org/citation.cfm?id=2783296), KDD'15
 
 [Neural Word Embedding As Implicit Matrix Factorization](http://dl.acm.org/citation.cfm?id=2969070), NIPS'14
+
+[Distributed large-scale natural graph factorization](http://dl.acm.org/citation.cfm?id=2488393), WWW'13
 
 [From Node Embedding To Community Embedding](https://arxiv.org/abs/1610.09950), arxiv
 

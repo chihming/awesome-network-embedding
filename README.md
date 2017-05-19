@@ -66,7 +66,7 @@ Max-Margin DeepWalk: Discriminative Learning of Network Representation, IJCAI'16
 
 Semi-Supervised Classification with Graph Convolutional Networks, ICLR'17
 
-[[arxiv]](https://arxiv.org/abs/1609.02907)  [[Python Tensordlow]](https://github.com/tkipf/gcn)
+[[arxiv]](https://arxiv.org/abs/1609.02907)  [[Python Tensorflow]](https://github.com/tkipf/gcn)
 
 **CANE**
 
@@ -84,7 +84,7 @@ TransNet: Translation-Based Network Representation Learning for Social Relation 
 
 Graph Embedding Techniques, Applications, and Performance: A Survey
 
-[[arxiv]](https://arxiv.org/abs/1705.02801) [[Mix]](https://github.com/palash1992/GEM)
+[[arxiv]](https://arxiv.org/abs/1705.02801) [[MIX]](https://github.com/palash1992/GEM)
 
 # Paper References
 

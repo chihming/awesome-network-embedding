@@ -1,6 +1,8 @@
 # awesome-network-embedding
 A curated list of network embedding techniques.
 
+Also called network representation learning, graph embedding, knowledge embedding, etc.
+
 The task is to learn the representations of the vertices from a given network.
 
 <img src="https://github.com/chihming/awesome-network-embedding/raw/master/pic/network_embedding.jpeg" width="480">
@@ -62,7 +64,7 @@ Max-Margin DeepWalk: Discriminative Learning of Network Representation, IJCAI'16
 
 [[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2016_mmdw.pdf)  [[Java]](https://github.com/thunlp/MMDW)
 
-**gcn**
+**GCN**
 
 Semi-Supervised Classification with Graph Convolutional Networks, ICLR'17
 

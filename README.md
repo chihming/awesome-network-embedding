@@ -1,55 +1,90 @@
 # awesome-network-embedding
 A curated list of network embedding techniques.
 
-The task is to learn the representations of vertices from a given network.
+The task is to learn the representations of the vertices from a given network.
 
 <img src="https://github.com/chihming/awesome-network-embedding/raw/master/pic/network_embedding.jpeg" width="480">
 
-# Paper References with codes
+# Paper References with the implementation(s)
 
 **DeepWalk**
 
 [DeepWalk: Online Learning of Social Representations](http://dl.acm.org/citation.cfm?id=2623732), KDD'14
 
-[[arxiv]](https://arxiv.org/abs/1403.6652) [[original python code]](https://github.com/phanein/deepwalk)
+[[arxiv]](https://arxiv.org/abs/1403.6652) [[Python]](https://github.com/phanein/deepwalk)
 
 **LINE**
 
 [LINE: Large-scale information network embedding](http://dl.acm.org/citation.cfm?id=2741093), WWW'15
 
-[[arxiv]](https://arxiv.org/abs/1503.03578) [[original c++ code]](https://github.com/tangjianpku/LINE)
-
-**node2vec**
-
-[node2vec: Scalable Feature Learning for Networks](http://dl.acm.org/citation.cfm?id=2939672.2939754), KDD'16
-
-[[arxiv]](https://arxiv.org/abs/1607.00653) [[original python code]](https://github.com/aditya-grover/node2vec)
-[[python code2]](https://github.com/apple2373/node2vec)
+[[arxiv]](https://arxiv.org/abs/1503.03578) [[C++]](https://github.com/tangjianpku/LINE)
 
 **GraRep**
 
 [Grarep: Learning graph representations with global structural information](http://dl.acm.org/citation.cfm?id=2806512), CIKM'15
 
-[[original matlab code]](https://github.com/ShelsonCao/GraRep)
-
-**DNGR**
-
-[Deep Neural Networks for Learning Graph Representations](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12423), AAAI'16
-
-[[Matlab]](https://github.com/ShelsonCao/DNGR) [[Keras]](https://github.com/MdAsifKhan/DNGR-Keras)
-
+[[Matlab]](https://github.com/ShelsonCao/GraRep)
 
 **KB2E**
 
 [Learning Entity and Relation Embeddings for Knowledge Graph Completion](http://dl.acm.org/citation.cfm?id=2886624), AAAI'15
 
-[[original c++ code]](https://github.com/thunlp/KB2E) [[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2015_transr.pdf) 
+[[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2015_transr.pdf) [[C++]](https://github.com/thunlp/KB2E)
+
+**TADW**
+
+[Network Representation Learning with Rich Text Information](http://dl.acm.org/citation.cfm?id=2832542), IJCAI'15
+
+[[paper]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf) [[Matlab]](https://github.com/thunlp/tadw)
+
+**planetoid**
+
+Revisiting Semi-supervised Learning with Graph Embeddings, ICML'16
+
+[[arxiv]](https://arxiv.org/abs/1603.08861) [[Python]](https://github.com/kimiyoung/planetoid)
+
+**node2vec**
+
+[node2vec: Scalable Feature Learning for Networks](http://dl.acm.org/citation.cfm?id=2939672.2939754), KDD'16
+
+[[arxiv]](https://arxiv.org/abs/1607.00653) [[Python]](https://github.com/aditya-grover/node2vec)
+[[Python-2]](https://github.com/apple2373/node2vec)
+
+**DNGR**
+
+[Deep Neural Networks for Learning Graph Representations](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12423), AAAI'16
+
+[[Matlab]](https://github.com/ShelsonCao/DNGR) [[Python Keras]](https://github.com/MdAsifKhan/DNGR-Keras)
 
 **MMDW**
 
-[Max-Margin DeepWalk: Discriminative Learning of Network Representation], IJCAI'16
+Max-Margin DeepWalk: Discriminative Learning of Network Representation, IJCAI'16
 
 [[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2016_mmdw.pdf)  [[Java]](https://github.com/thunlp/MMDW)
+
+**gcn**
+
+Semi-Supervised Classification with Graph Convolutional Networks, ICLR'17
+
+[[arxiv]](https://arxiv.org/abs/1609.02907)  [[Python Tensordlow]](https://github.com/tkipf/gcn)
+
+**CANE**
+
+CANE: Context-Aware Network Embedding for Relation Modeling, ACL'17
+
+[[paper]](http://www.thunlp.org/~tcc/publications/acl2017_cane.pdf) [[Python]](https://github.com/thunlp/cane)
+
+**TransNet**
+
+TransNet: Translation-Based Network Representation Learning for Social Relation Extraction, IJCAI'17
+
+[[Python Tensorflow]](https://github.com/thunlp/TransNet)
+
+**GEM**
+
+Graph Embedding Techniques, Applications, and Performance: A Survey
+
+[[arxiv]](https://arxiv.org/abs/1705.02801) [[Mix]](https://github.com/palash1992/GEM)
 
 # Paper References
 

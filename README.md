@@ -21,6 +21,12 @@ The task is to learn the representations of the vertices from a given network.
 
 [[arxiv]](https://arxiv.org/abs/1503.03578) [[C++]](https://github.com/tangjianpku/LINE)
 
+**PTE**
+
+[PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](http://dl.acm.org/citation.cfm?id=2783307), KDD'15
+
+[[C++]](https://github.com/mnqu/PTE)
+
 **GraRep**
 
 [Grarep: Learning graph representations with global structural information](http://dl.acm.org/citation.cfm?id=2806512), CIKM'15

@@ -72,7 +72,7 @@ Revisiting Semi-supervised Learning with Graph Embeddings, ICML'16
 
 **ComplEx**
 
-[Complex Embeddings for Simple Link Prediction](http://dl.acm.org/citation.cfm?id=3045609)
+[Complex Embeddings for Simple Link Prediction](http://dl.acm.org/citation.cfm?id=3045609), ICML'16
 
 [[arxiv]](https://arxiv.org/abs/1606.06357) [[Python]](https://github.com/ttrouill/complex)
 

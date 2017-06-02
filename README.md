@@ -70,6 +70,12 @@ Revisiting Semi-supervised Learning with Graph Embeddings, ICML'16
 
 [[Python-sklearn]](https://github.com/mnick/holographic-embeddings) [[Python-sklearn2]](https://github.com/mnick/scikit-kge)
 
+**ComplEx**
+
+[Complex Embeddings for Simple Link Prediction](http://dl.acm.org/citation.cfm?id=3045609)
+
+[[arxiv]](https://arxiv.org/abs/1606.06357) [[Python]](https://github.com/ttrouill/complex)
+
 **MMDW**
 
 Max-Margin DeepWalk: Discriminative Learning of Network Representation, IJCAI'16

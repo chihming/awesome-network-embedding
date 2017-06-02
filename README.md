@@ -64,6 +64,12 @@ Revisiting Semi-supervised Learning with Graph Embeddings, ICML'16
 
 [[Matlab]](https://github.com/ShelsonCao/DNGR) [[Python Keras]](https://github.com/MdAsifKhan/DNGR-Keras)
 
+**HolE**
+
+[Holographic Embeddings of Knowledge Graphs](http://dl.acm.org/citation.cfm?id=3016172), AAAI'16
+
+[[Python-sklearn]](https://github.com/mnick/holographic-embeddings) [[Python-sklearn2]](https://github.com/mnick/scikit-kge)
+
 **MMDW**
 
 Max-Margin DeepWalk: Discriminative Learning of Network Representation, IJCAI'16

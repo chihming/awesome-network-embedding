@@ -130,3 +130,8 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 
 [Comprehend DeepWalk as Matrix Factorization](https://arxiv.org/abs/1501.00358), arxiv
 
+
+# Related Github Links
+
+[Must-read papers on NRL/NE.](https://github.com/thunlp/NRLPapers)
+

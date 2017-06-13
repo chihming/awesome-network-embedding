@@ -116,8 +116,6 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 
 [Tri-party deep network representation](http://dl.acm.org/citation.cfm?id=3060886), IJCAI'16
 
-[PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](http://dl.acm.org/citation.cfm?id=2783307) KDD'15
-
 [Heterogeneous Network Embedding via Deep Architectures](http://dl.acm.org/citation.cfm?id=2783296), KDD'15
 
 [Neural Word Embedding As Implicit Matrix Factorization](http://dl.acm.org/citation.cfm?id=2969070), NIPS'14

@@ -133,3 +133,4 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 
 [Must-read papers on NRL/NE.](https://github.com/thunlp/NRLPapers)
 
+[Network Embedding Resources](https://github.com/nate-russell/Network-Embedding-Resources)

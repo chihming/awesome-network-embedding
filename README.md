@@ -88,6 +88,13 @@ Semi-Supervised Classification with Graph Convolutional Networks, ICLR'17
 
 [[arxiv]](https://arxiv.org/abs/1609.02907)  [[Python Tensorflow]](https://github.com/tkipf/gcn)
 
+**gae**
+
+Variational Graph Auto-Encoders
+
+[[arxiv]](https://arxiv.org/abs/1611.07308) [[Python Tensorflow]](https://github.com/tkipf/gae)
+
+
 **CANE**
 
 CANE: Context-Aware Network Embedding for Relation Modeling, ACL'17

@@ -1,9 +1,10 @@
 # awesome-network-embedding
-A curated list of network embedding techniques.
 
 Also called network representation learning, graph embedding, knowledge embedding, etc.
 
 The task is to learn the representations of the vertices from a given network.
+
+***Contributions Welcome*** :)
 
 <img src="https://github.com/chihming/awesome-network-embedding/raw/master/pic/network_embedding.jpeg" width="480">
 

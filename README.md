@@ -117,6 +117,7 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 
 **Graph2Gauss**,
 [Deep Gaussian Embedding of Attributed Graphs: Unsupervised Inductive Learning via Ranking](https://arxiv.org/abs/1707.03815), arxiv
+[[Bonus Animation]](https://twitter.com/abojchevski/status/885502050133585925)
 
 [Scalable Graph Embedding for Asymmetric Proximity](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14696), AAAI'17
 

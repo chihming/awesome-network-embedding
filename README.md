@@ -90,7 +90,7 @@ Semi-Supervised Classification with Graph Convolutional Networks, ICLR'17
 
 **gae**
 
-Variational Graph Auto-Encoders
+Variational Graph Auto-Encoders, arxiv
 
 [[arxiv]](https://arxiv.org/abs/1611.07308) [[Python Tensorflow]](https://github.com/tkipf/gae)
 
@@ -114,6 +114,9 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 [[arxiv]](https://arxiv.org/abs/1705.02801) [[MIX]](https://github.com/palash1992/GEM)
 
 # Paper References
+
+**Graph2Gauss**,
+[Deep Gaussian Embedding of Attributed Graphs: Unsupervised Inductive Learning via Ranking](https://arxiv.org/abs/1707.03815), arxiv
 
 [Scalable Graph Embedding for Asymmetric Proximity](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14696), AAAI'17
 
@@ -141,3 +144,6 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 [Must-read papers on NRL/NE.](https://github.com/thunlp/NRLPapers)
 
 [Network Embedding Resources](https://github.com/nate-russell/Network-Embedding-Resources)
+
+[2vec-type embedding models](https://github.com/MaxwellRebo/awesome-2vec)
+

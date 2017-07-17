@@ -10,47 +10,36 @@ The task is to learn the representations of the vertices from a given network.
 
 # Paper References with the implementation(s)
 
-**DeepWalk**
+**GCN**
 
-[DeepWalk: Online Learning of Social Representations](http://dl.acm.org/citation.cfm?id=2623732), KDD'14
+Semi-Supervised Classification with Graph Convolutional Networks, ICLR'17
 
-[[arxiv]](https://arxiv.org/abs/1403.6652) [[Python]](https://github.com/phanein/deepwalk)
+[[arxiv]](https://arxiv.org/abs/1609.02907)  [[Python Tensorflow]](https://github.com/tkipf/gcn)
 
-**LINE**
+**GAE**
 
-[LINE: Large-scale information network embedding](http://dl.acm.org/citation.cfm?id=2741093), WWW'15
+Variational Graph Auto-Encoders, arxiv
 
-[[arxiv]](https://arxiv.org/abs/1503.03578) [[C++]](https://github.com/tangjianpku/LINE)
+[[arxiv]](https://arxiv.org/abs/1611.07308) [[Python Tensorflow]](https://github.com/tkipf/gae)
 
-**PTE**
 
-[PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](http://dl.acm.org/citation.cfm?id=2783307), KDD'15
+**CANE**
 
-[[C++]](https://github.com/mnqu/PTE)
+CANE: Context-Aware Network Embedding for Relation Modeling, ACL'17
 
-**GraRep**
+[[paper]](http://www.thunlp.org/~tcc/publications/acl2017_cane.pdf) [[Python]](https://github.com/thunlp/cane)
 
-[Grarep: Learning graph representations with global structural information](http://dl.acm.org/citation.cfm?id=2806512), CIKM'15
+**TransNet**
 
-[[Matlab]](https://github.com/ShelsonCao/GraRep)
+TransNet: Translation-Based Network Representation Learning for Social Relation Extraction, IJCAI'17
 
-**KB2E**
+[[Python Tensorflow]](https://github.com/thunlp/TransNet)
 
-[Learning Entity and Relation Embeddings for Knowledge Graph Completion](http://dl.acm.org/citation.cfm?id=2886624), AAAI'15
+**ConvE**
 
-[[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2015_transr.pdf) [[C++]](https://github.com/thunlp/KB2E)  [[faster version]](https://github.com/thunlp/Fast-TransX)
+[Convolutional 2D Knowledge Graph Embeddings](https://arxiv.org/pdf/1707.01476v2.pdf), arxiv
 
-**TADW**
-
-[Network Representation Learning with Rich Text Information](http://dl.acm.org/citation.cfm?id=2832542), IJCAI'15
-
-[[paper]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf) [[Matlab]](https://github.com/thunlp/tadw)
-
-**planetoid**
-
-Revisiting Semi-supervised Learning with Graph Embeddings, ICML'16
-
-[[arxiv]](https://arxiv.org/abs/1603.08861) [[Python]](https://github.com/kimiyoung/planetoid)
+[[source]](https://github.com/TimDettmers/ConvE)
 
 **node2vec**
 
@@ -83,30 +72,50 @@ Max-Margin DeepWalk: Discriminative Learning of Network Representation, IJCAI'16
 
 [[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2016_mmdw.pdf)  [[Java]](https://github.com/thunlp/MMDW)
 
-**GCN**
+**planetoid**
 
-Semi-Supervised Classification with Graph Convolutional Networks, ICLR'17
+Revisiting Semi-supervised Learning with Graph Embeddings, ICML'16
 
-[[arxiv]](https://arxiv.org/abs/1609.02907)  [[Python Tensorflow]](https://github.com/tkipf/gcn)
-
-**gae**
-
-Variational Graph Auto-Encoders, arxiv
-
-[[arxiv]](https://arxiv.org/abs/1611.07308) [[Python Tensorflow]](https://github.com/tkipf/gae)
+[[arxiv]](https://arxiv.org/abs/1603.08861) [[Python]](https://github.com/kimiyoung/planetoid)
 
 
-**CANE**
+**LINE**
 
-CANE: Context-Aware Network Embedding for Relation Modeling, ACL'17
+[LINE: Large-scale information network embedding](http://dl.acm.org/citation.cfm?id=2741093), WWW'15
 
-[[paper]](http://www.thunlp.org/~tcc/publications/acl2017_cane.pdf) [[Python]](https://github.com/thunlp/cane)
+[[arxiv]](https://arxiv.org/abs/1503.03578) [[C++]](https://github.com/tangjianpku/LINE)
 
-**TransNet**
+**PTE**
 
-TransNet: Translation-Based Network Representation Learning for Social Relation Extraction, IJCAI'17
+[PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](http://dl.acm.org/citation.cfm?id=2783307), KDD'15
 
-[[Python Tensorflow]](https://github.com/thunlp/TransNet)
+[[C++]](https://github.com/mnqu/PTE)
+
+**GraRep**
+
+[Grarep: Learning graph representations with global structural information](http://dl.acm.org/citation.cfm?id=2806512), CIKM'15
+
+[[Matlab]](https://github.com/ShelsonCao/GraRep)
+
+**KB2E**
+
+[Learning Entity and Relation Embeddings for Knowledge Graph Completion](http://dl.acm.org/citation.cfm?id=2886624), AAAI'15
+
+[[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2015_transr.pdf) [[C++]](https://github.com/thunlp/KB2E)  [[faster version]](https://github.com/thunlp/Fast-TransX)
+
+**TADW**
+
+[Network Representation Learning with Rich Text Information](http://dl.acm.org/citation.cfm?id=2832542), IJCAI'15
+
+[[paper]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf) [[Matlab]](https://github.com/thunlp/tadw)
+
+**DeepWalk**
+
+[DeepWalk: Online Learning of Social Representations](http://dl.acm.org/citation.cfm?id=2623732), KDD'14
+
+[[arxiv]](https://arxiv.org/abs/1403.6652) [[Python]](https://github.com/phanein/deepwalk)
+
+
 
 **GEM**
 

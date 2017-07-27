@@ -10,6 +10,24 @@ The task is to learn the representations of the vertices from a given network.
 
 # Paper References with the implementation(s)
 
+**GraphSAGE**
+
+Inductive Representation Learning on Large Graphs, NIPS'17
+
+[[arxiv]](https://arxiv.org/abs/1706.02216) [[Python]](https://github.com/williamleif/GraphSAGE)
+
+**struc2vec**
+
+struc2vec: Learning Node Representations from Structural Identity, KDD'17
+
+[[arxiv]](https://arxiv.org/abs/1704.03165) [[Python]](https://github.com/leoribeiro/struc2vec)
+
+**metapath2vec**
+
+metapath2vec: Scalable Representation Learning for Heterogeneous Networks.
+
+[[paper]](https://www3.nd.edu/~dial/publications/dong2017metapath2vec.pdf) [[project website]](https://ericdongyx.github.io/metapath2vec/m2v.html)
+
 **GCN**
 
 Semi-Supervised Classification with Graph Convolutional Networks, ICLR'17

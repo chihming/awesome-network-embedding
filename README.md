@@ -24,7 +24,7 @@ struc2vec: Learning Node Representations from Structural Identity, KDD'17
 
 **metapath2vec**
 
-metapath2vec: Scalable Representation Learning for Heterogeneous Networks.
+metapath2vec: Scalable Representation Learning for Heterogeneous Networks, KDD'17
 
 [[paper]](https://www3.nd.edu/~dial/publications/dong2017metapath2vec.pdf) [[project website]](https://ericdongyx.github.io/metapath2vec/m2v.html)
 

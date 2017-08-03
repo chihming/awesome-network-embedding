@@ -16,6 +16,12 @@ Inductive Representation Learning on Large Graphs, NIPS'17
 
 [[arxiv]](https://arxiv.org/abs/1706.02216) [[Python]](https://github.com/williamleif/GraphSAGE)
 
+**ICE**
+
+[ICE: Item Concept Embedding via Textual Information](http://dl.acm.org/citation.cfm?id=3080807), SIGIR'17
+
+[[demo]](https://cnclabs.github.io/ICE/) [[code]](https://github.com/cnclabs/ICE)
+
 **struc2vec**
 
 struc2vec: Learning Node Representations from Structural Identity, KDD'17

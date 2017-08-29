@@ -182,3 +182,7 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 
 [2vec-type embedding models](https://github.com/MaxwellRebo/awesome-2vec)
 
+# Related Project
+
+**proNet-core** [github](https://github.com/chihming/proNet-core)
+

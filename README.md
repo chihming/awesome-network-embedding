@@ -149,6 +149,9 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 
 # Paper References
 
+**LANE**, 
+[Label Informed Attributed Network Embedding](http://dl.acm.org/citation.cfm?id=3018667), WSDM'17
+
 **Graph2Gauss**,
 [Deep Gaussian Embedding of Attributed Graphs: Unsupervised Inductive Learning via Ranking](https://arxiv.org/abs/1707.03815), arxiv
 [[Bonus Animation]](https://twitter.com/abojchevski/status/885502050133585925)

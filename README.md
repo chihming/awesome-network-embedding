@@ -187,5 +187,7 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 
 # Related Project
 
+**Stanford Network Analysis Project** [website](http://snap.stanford.edu/)
+
 **proNet-core** [github](https://github.com/chihming/proNet-core)
 

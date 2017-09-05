@@ -102,6 +102,11 @@ Revisiting Semi-supervised Learning with Graph Embeddings, ICML'16
 
 [[arxiv]](https://arxiv.org/abs/1603.08861) [[Python]](https://github.com/kimiyoung/planetoid)
 
+**PowerWalk**
+
+[PowerWalk: Scalable Personalized PageRank via Random Walks with Vertex-Centric Decomposition](http://dl.acm.org/citation.cfm?id=2983713), CIKM'16
+
+[[code]](https://github.com/lqhl/PowerWalk)
 
 **LINE**
 

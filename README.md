@@ -183,6 +183,8 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 
 [Network Embedding Resources](https://github.com/nate-russell/Network-Embedding-Resources)
 
+[awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
+
 [2vec-type embedding models](https://github.com/MaxwellRebo/awesome-2vec)
 
 # Related Project

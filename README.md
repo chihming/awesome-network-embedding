@@ -6,7 +6,7 @@ Also called network representation learning, graph embedding, knowledge embeddin
 
 The task is to learn the representations of the vertices from a given network.
 
-<img src="https://github.com/chihming/awesome-network-embedding/raw/master/pic/network_embedding.jpeg" width="480">
+<img src="http://cherry.cs.nccu.edu.tw/~g10018/portfolio/images/pronet.png" width="480">
 
 # Paper References with the implementation(s)
 

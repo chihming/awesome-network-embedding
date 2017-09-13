@@ -155,6 +155,8 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 
 # Paper References
 
+**CONE**, [CONE: Community Oriented Network Embedding](https://arxiv.org/abs/1709.01554), arxiv'17
+
 **LANE**, 
 [Label Informed Attributed Network Embedding](http://dl.acm.org/citation.cfm?id=3018667), WSDM'17
 

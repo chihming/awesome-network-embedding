@@ -11,6 +11,12 @@ The task is to learn the representations of the vertices from a given network.
 
 # Paper References with the implementation(s)
 
+**ComE**
+
+Learning Community Embedding with Community Detection and Node Embedding on Graphs, CIKM'17
+
+[[Python]](https://github.com/andompesta/ComE)
+
 **GraphSAGE**
 
 Inductive Representation Learning on Large Graphs, NIPS'17

@@ -11,6 +11,12 @@ The task is to learn the representations of the vertices from a given network.
 
 # Paper References with the implementation(s)
 
+**StarSpace**
+
+[StarSpace: Embed All The Things!](https://arxiv.org/pdf/1709.03856), arxiv'17
+
+[[code]](https://github.com/facebookresearch/Starspace)
+
 **ComE**
 
 Learning Community Embedding with Community Detection and Node Embedding on Graphs, CIKM'17

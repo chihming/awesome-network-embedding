@@ -196,6 +196,10 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 
 [Comprehend DeepWalk as Matrix Factorization](https://arxiv.org/abs/1501.00358), arxiv
 
+[Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039), arXiv 2017
+
+
+
 
 # Related List
 

@@ -17,6 +17,13 @@ The task is to learn the representations of the vertices from a given network.
 
 [[code]](https://github.com/facebookresearch/Starspace)
 
+**struc2vec**
+
+[struc2vec: Learning Node Representations from Structural Identity](https://dl.acm.org/citation.cfm?id=3098061), KDD'17
+
+[[Python]](https://dl.acm.org/citation.cfm?id=3098061)
+
+
 **ComE**
 
 Learning Community Embedding with Community Detection and Node Embedding on Graphs, CIKM'17

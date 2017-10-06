@@ -205,8 +205,9 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 
 [Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039), arXiv 2017
 
+# Conference & Workshop
 
-
+[13th International Workshop on Mining and Learning with Graphs](http://www.mlgworkshop.org/2017/), **MLG'17**
 
 # Related List
 

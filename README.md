@@ -174,6 +174,8 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 
 # Paper References
 
+[Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584.pdf), IEEE DEB'17
+
 **CONE**, [CONE: Community Oriented Network Embedding](https://arxiv.org/abs/1709.01554), arxiv'17
 
 **LANE**, 

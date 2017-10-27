@@ -225,5 +225,5 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 
 **Stanford Network Analysis Project** [website](http://snap.stanford.edu/)
 
-**proNet-core** [github](https://github.com/chihming/proNet-core)
+**proNet-core** [github](https://github.com/chihming/proNet-core) (now supports **DeepWalk**, **Walklets**, **LINE**, **HPE**, **APP**, **MF**, **BPR**)
 

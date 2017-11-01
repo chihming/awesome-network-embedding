@@ -215,6 +215,8 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 
 # Related List
 
+[awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
+
 [Must-read papers on NRL/NE.](https://github.com/thunlp/NRLPapers)
 
 [Network Embedding Resources](https://github.com/nate-russell/Network-Embedding-Resources)

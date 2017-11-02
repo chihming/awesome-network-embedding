@@ -179,6 +179,8 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 
 # Paper References
 
+[Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec](https://arxiv.org/abs/1710.02971), arxiv'17
+
 [A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications](https://arxiv.org/abs/1709.07604), arxiv'17
 
 [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584.pdf), IEEE DEB'17

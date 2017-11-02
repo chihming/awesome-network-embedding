@@ -17,12 +17,17 @@ The task is to learn the representations of the vertices from a given network.
 
 [[code]](https://github.com/facebookresearch/Starspace)
 
+**proNet-core**
+
+[Vertex-Context Sampling for Weighted Network Embedding](https://arxiv.org/abs/1711.00227), arxiv'17
+
+[[code]](https://github.com/cnclabs/proNet-core)
+
 **struc2vec**
 
 [struc2vec: Learning Node Representations from Structural Identity](https://dl.acm.org/citation.cfm?id=3098061), KDD'17
 
 [[Python]](https://dl.acm.org/citation.cfm?id=3098061)
-
 
 **ComE**
 
@@ -228,6 +233,4 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 # Related Project
 
 **Stanford Network Analysis Project** [website](http://snap.stanford.edu/)
-
-**proNet-core** [github](https://github.com/chihming/proNet-core) (now supports **DeepWalk**, **Walklets**, **LINE**, **HPE**, **APP**, **MF**, **BPR**)
 

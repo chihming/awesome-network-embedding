@@ -47,12 +47,6 @@ Inductive Representation Learning on Large Graphs, NIPS'17
 
 [[demo]](https://cnclabs.github.io/ICE/) [[code]](https://github.com/cnclabs/ICE)
 
-**struc2vec**
-
-struc2vec: Learning Node Representations from Structural Identity, KDD'17
-
-[[arxiv]](https://arxiv.org/abs/1704.03165) [[Python]](https://github.com/leoribeiro/struc2vec)
-
 **metapath2vec**
 
 metapath2vec: Scalable Representation Learning for Heterogeneous Networks, KDD'17

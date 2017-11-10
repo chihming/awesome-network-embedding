@@ -11,6 +11,12 @@ The task is to learn the representations of the vertices from a given network.
 
 # Paper References with the implementation(s)
 
+**GraphWave**
+
+[Spectral Graph Wavelets for Structural Role Similarity in Networks](http://snap.stanford.edu/graphwave/)
+
+[[arxiv]](https://arxiv.org/abs/1710.10321) [[Python]](https://github.com/snap-stanford/graphwave)
+
 **StarSpace**
 
 [StarSpace: Embed All The Things!](https://arxiv.org/pdf/1709.03856), arxiv'17

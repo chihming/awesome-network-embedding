@@ -185,6 +185,9 @@ Graph Embedding Techniques, Applications, and Performance: A Survey
 
 # Paper References
 
+
+[Deep Feature Learning for Graphs](https://arxiv.org/abs/1704.08829), arxiv'17
+
 [Watch Your Step: Learning Graph Embeddings Through Attention](https://arxiv.org/abs/1710.09599), arxiv'17
 
 [Fast Linear Model for Knowledge Graph Embeddings](https://arxiv.org/abs/1710.10881), arxiv'17

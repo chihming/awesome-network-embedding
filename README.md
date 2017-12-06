@@ -11,9 +11,15 @@ The task is to learn the representations of the vertices from a given network.
 
 # Paper References with the implementation(s)
 
+**ASNE**
+
+Attributed Social Network Embedding, arxiv'17
+
+[[arxiv]](https://arxiv.org/abs/1706.01860) [[Python]](https://github.com/lizi-git/ASNE)
+
 **GraphWave**
 
-[Spectral Graph Wavelets for Structural Role Similarity in Networks](http://snap.stanford.edu/graphwave/)
+[Spectral Graph Wavelets for Structural Role Similarity in Networks](http://snap.stanford.edu/graphwave/), arxiv'17
 
 [[arxiv]](https://arxiv.org/abs/1710.10321) [[Python]](https://github.com/snap-stanford/graphwave)
 
@@ -25,9 +31,9 @@ The task is to learn the representations of the vertices from a given network.
 
 **proNet-core**
 
-[Vertex-Context Sampling for Weighted Network Embedding](https://arxiv.org/abs/1711.00227), arxiv'17
+Vertex-Context Sampling for Weighted Network Embedding, arxiv'17
 
-[[code]](https://github.com/cnclabs/proNet-core)
+[[arxiv]](https://arxiv.org/abs/1711.00227) [[code]](https://github.com/cnclabs/proNet-core)
 
 **struc2vec**
 

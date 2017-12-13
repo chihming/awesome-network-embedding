@@ -11,177 +11,90 @@ The task is to learn the representations of the vertices from a given network.
 
 # Paper References with the implementation(s)
 
-**ASNE**
-
-Attributed Social Network Embedding, arxiv'17
-
-[[arxiv]](https://arxiv.org/abs/1706.01860) [[Python]](https://github.com/lizi-git/ASNE)
-
-**GraphWave**
-
-[Spectral Graph Wavelets for Structural Role Similarity in Networks](http://snap.stanford.edu/graphwave/), arxiv'17
-
-[[arxiv]](https://arxiv.org/abs/1710.10321) [[Python]](https://github.com/snap-stanford/graphwave)
-
-**StarSpace**
-
-[StarSpace: Embed All The Things!](https://arxiv.org/pdf/1709.03856), arxiv'17
-
-[[code]](https://github.com/facebookresearch/Starspace)
-
-**proNet-core**
-
-Vertex-Context Sampling for Weighted Network Embedding, arxiv'17
-
-[[arxiv]](https://arxiv.org/abs/1711.00227) [[code]](https://github.com/cnclabs/proNet-core)
-
-**struc2vec**
-
-[struc2vec: Learning Node Representations from Structural Identity](https://dl.acm.org/citation.cfm?id=3098061), KDD'17
-
-[[Python]](https://dl.acm.org/citation.cfm?id=3098061)
-
-**ComE**
-
-Learning Community Embedding with Community Detection and Node Embedding on Graphs, CIKM'17
-
-[[Python]](https://github.com/andompesta/ComE)
-
-**GraphSAGE**
-
-Inductive Representation Learning on Large Graphs, NIPS'17
-
-[[arxiv]](https://arxiv.org/abs/1706.02216) [[Python]](https://github.com/williamleif/GraphSAGE)
-
-**ICE**
-
-[ICE: Item Concept Embedding via Textual Information](http://dl.acm.org/citation.cfm?id=3080807), SIGIR'17
-
-[[demo]](https://cnclabs.github.io/ICE/) [[code]](https://github.com/cnclabs/ICE)
-
-**metapath2vec**
-
-metapath2vec: Scalable Representation Learning for Heterogeneous Networks, KDD'17
-
-[[paper]](https://www3.nd.edu/~dial/publications/dong2017metapath2vec.pdf) [[project website]](https://ericdongyx.github.io/metapath2vec/m2v.html)
-
-**GCN**
-
-Semi-Supervised Classification with Graph Convolutional Networks, ICLR'17
-
-[[arxiv]](https://arxiv.org/abs/1609.02907)  [[Python Tensorflow]](https://github.com/tkipf/gcn)
-
-**GAE**
-
-Variational Graph Auto-Encoders, arxiv
-
-[[arxiv]](https://arxiv.org/abs/1611.07308) [[Python Tensorflow]](https://github.com/tkipf/gae)
-
-
-**CANE**
-
-CANE: Context-Aware Network Embedding for Relation Modeling, ACL'17
-
-[[paper]](http://www.thunlp.org/~tcc/publications/acl2017_cane.pdf) [[Python]](https://github.com/thunlp/cane)
-
-**TransNet**
-
-TransNet: Translation-Based Network Representation Learning for Social Relation Extraction, IJCAI'17
-
-[[Python Tensorflow]](https://github.com/thunlp/TransNet)
-
-**ConvE**
-
-[Convolutional 2D Knowledge Graph Embeddings](https://arxiv.org/pdf/1707.01476v2.pdf), arxiv
-
-[[source]](https://github.com/TimDettmers/ConvE)
-
-**node2vec**
-
-[node2vec: Scalable Feature Learning for Networks](http://dl.acm.org/citation.cfm?id=2939672.2939754), KDD'16
-
-[[arxiv]](https://arxiv.org/abs/1607.00653) [[Python]](https://github.com/aditya-grover/node2vec)
-[[Python-2]](https://github.com/apple2373/node2vec)
-
-**DNGR**
-
-[Deep Neural Networks for Learning Graph Representations](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12423), AAAI'16
-
-[[Matlab]](https://github.com/ShelsonCao/DNGR) [[Python Keras]](https://github.com/MdAsifKhan/DNGR-Keras)
-
-**HolE**
-
-[Holographic Embeddings of Knowledge Graphs](http://dl.acm.org/citation.cfm?id=3016172), AAAI'16
-
-[[Python-sklearn]](https://github.com/mnick/holographic-embeddings) [[Python-sklearn2]](https://github.com/mnick/scikit-kge)
-
-**ComplEx**
-
-[Complex Embeddings for Simple Link Prediction](http://dl.acm.org/citation.cfm?id=3045609), ICML'16
-
-[[arxiv]](https://arxiv.org/abs/1606.06357) [[Python]](https://github.com/ttrouill/complex)
-
-**MMDW**
-
-Max-Margin DeepWalk: Discriminative Learning of Network Representation, IJCAI'16
-
-[[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2016_mmdw.pdf)  [[Java]](https://github.com/thunlp/MMDW)
-
-**planetoid**
-
-Revisiting Semi-supervised Learning with Graph Embeddings, ICML'16
-
-[[arxiv]](https://arxiv.org/abs/1603.08861) [[Python]](https://github.com/kimiyoung/planetoid)
-
-**PowerWalk**
-
-[PowerWalk: Scalable Personalized PageRank via Random Walks with Vertex-Centric Decomposition](http://dl.acm.org/citation.cfm?id=2983713), CIKM'16
-
-[[code]](https://github.com/lqhl/PowerWalk)
-
-**LINE**
-
-[LINE: Large-scale information network embedding](http://dl.acm.org/citation.cfm?id=2741093), WWW'15
-
-[[arxiv]](https://arxiv.org/abs/1503.03578) [[C++]](https://github.com/tangjianpku/LINE)
-
-**PTE**
-
-[PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](http://dl.acm.org/citation.cfm?id=2783307), KDD'15
-
-[[C++]](https://github.com/mnqu/PTE)
-
-**GraRep**
-
-[Grarep: Learning graph representations with global structural information](http://dl.acm.org/citation.cfm?id=2806512), CIKM'15
-
-[[Matlab]](https://github.com/ShelsonCao/GraRep)
-
-**KB2E**
-
-[Learning Entity and Relation Embeddings for Knowledge Graph Completion](http://dl.acm.org/citation.cfm?id=2886624), AAAI'15
-
-[[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2015_transr.pdf) [[C++]](https://github.com/thunlp/KB2E)  [[faster version]](https://github.com/thunlp/Fast-TransX)
-
-**TADW**
-
-[Network Representation Learning with Rich Text Information](http://dl.acm.org/citation.cfm?id=2832542), IJCAI'15
-
-[[paper]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf) [[Matlab]](https://github.com/thunlp/tadw)
-
-**DeepWalk**
-
-[DeepWalk: Online Learning of Social Representations](http://dl.acm.org/citation.cfm?id=2623732), KDD'14
-
-[[arxiv]](https://arxiv.org/abs/1403.6652) [[Python]](https://github.com/phanein/deepwalk)
-
-
-
-**GEM**
-
-Graph Embedding Techniques, Applications, and Performance: A Survey
-
-[[arxiv]](https://arxiv.org/abs/1705.02801) [[MIX]](https://github.com/palash1992/GEM)
+- **ASNE**
+  - Attributed Social Network Embedding, arxiv'17
+  - [[arxiv]](https://arxiv.org/abs/1706.01860) [[Python]](https://github.com/lizi-git/ASNE)
+- **GraphWave**
+  - [Spectral Graph Wavelets for Structural Role Similarity in Networks](http://snap.stanford.edu/graphwave/), arxiv'17
+  - [[arxiv]](https://arxiv.org/abs/1710.10321) [[Python]](https://github.com/snap-stanford/graphwave)
+- **StarSpace**
+  - [StarSpace: Embed All The Things!](https://arxiv.org/pdf/1709.03856), arxiv'17
+  - [[code]](https://github.com/facebookresearch/Starspace)
+- **proNet-core**
+  - Vertex-Context Sampling for Weighted Network Embedding, arxiv'17
+  - [[arxiv]](https://arxiv.org/abs/1711.00227) [[code]](https://github.com/cnclabs/proNet-core)
+- **struc2vec**
+  - [struc2vec: Learning Node Representations from Structural Identity](https://dl.acm.org/citation.cfm?id=3098061), KDD'17
+  - [[Python]](https://dl.acm.org/citation.cfm?id=3098061)
+- **ComE**
+  - Learning Community Embedding with Community Detection and Node Embedding on Graphs, CIKM'17
+  - [[Python]](https://github.com/andompesta/ComE)
+- **GraphSAGE**
+  - Inductive Representation Learning on Large Graphs, NIPS'17
+  - [[arxiv]](https://arxiv.org/abs/1706.02216) [[Python]](https://github.com/williamleif/GraphSAGE)
+- **ICE**
+  - [ICE: Item Concept Embedding via Textual Information](http://dl.acm.org/citation.cfm?id=3080807), SIGIR'17
+  - [[demo]](https://cnclabs.github.io/ICE/) [[code]](https://github.com/cnclabs/ICE)
+- **metapath2vec**
+  - metapath2vec: Scalable Representation Learning for Heterogeneous Networks, KDD'17
+  - [[paper]](https://www3.nd.edu/~dial/publications/dong2017metapath2vec.pdf) [[project website]](https://ericdongyx.github.io/metapath2vec/m2v.html)
+- **GCN**
+  - Semi-Supervised Classification with Graph Convolutional Networks, ICLR'17
+  - [[arxiv]](https://arxiv.org/abs/1609.02907)  [[Python Tensorflow]](https://github.com/tkipf/gcn)
+- **GAE**
+  - Variational Graph Auto-Encoders, arxiv
+  - [[arxiv]](https://arxiv.org/abs/1611.07308) [[Python Tensorflow]](https://github.com/tkipf/gae)
+- **CANE**
+  - CANE: Context-Aware Network Embedding for Relation Modeling, ACL'17
+  - [[paper]](http://www.thunlp.org/~tcc/publications/acl2017_cane.pdf) [[Python]](https://github.com/thunlp/cane)
+- **TransNet**
+  - TransNet: Translation-Based Network Representation Learning for Social Relation Extraction, IJCAI'17
+  - [[Python Tensorflow]](https://github.com/thunlp/TransNet)
+- **ConvE**
+  - [Convolutional 2D Knowledge Graph Embeddings](https://arxiv.org/pdf/1707.01476v2.pdf), arxiv
+  - [[source]](https://github.com/TimDettmers/ConvE)
+- **node2vec**
+  - [node2vec: Scalable Feature Learning for Networks](http://dl.acm.org/citation.cfm?id=2939672.2939754), KDD'16
+  - [[arxiv]](https://arxiv.org/abs/1607.00653) [[Python]](https://github.com/aditya-grover/node2vec) [[Python-2]](https://github.com/apple2373/node2vec)
+- **DNGR**
+  - [Deep Neural Networks for Learning Graph Representations](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12423), AAAI'16
+  - [[Matlab]](https://github.com/ShelsonCao/DNGR) [[Python Keras]](https://github.com/MdAsifKhan/DNGR-Keras)
+- **HolE**
+  - [Holographic Embeddings of Knowledge Graphs](http://dl.acm.org/citation.cfm?id=3016172), AAAI'16
+  - [[Python-sklearn]](https://github.com/mnick/holographic-embeddings) [[Python-sklearn2]](https://github.com/mnick/scikit-kge)
+- **ComplEx**
+  - [Complex Embeddings for Simple Link Prediction](http://dl.acm.org/citation.cfm?id=3045609), ICML'16
+  - [[arxiv]](https://arxiv.org/abs/1606.06357) [[Python]](https://github.com/ttrouill/complex)
+- **MMDW**
+  - Max-Margin DeepWalk: Discriminative Learning of Network Representation, IJCAI'16
+  - [[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2016_mmdw.pdf)  [[Java]](https://github.com/thunlp/MMDW)
+- **planetoid**
+  - Revisiting Semi-supervised Learning with Graph Embeddings, ICML'16
+  - [[arxiv]](https://arxiv.org/abs/1603.08861) [[Python]](https://github.com/kimiyoung/planetoid)
+- **PowerWalk**
+  - [PowerWalk: Scalable Personalized PageRank via Random Walks with Vertex-Centric Decomposition](http://dl.acm.org/citation.cfm?id=2983713), CIKM'16
+  - [[code]](https://github.com/lqhl/PowerWalk)
+- **LINE**
+  - [LINE: Large-scale information network embedding](http://dl.acm.org/citation.cfm?id=2741093), WWW'15
+  - [[arxiv]](https://arxiv.org/abs/1503.03578) [[C++]](https://github.com/tangjianpku/LINE)
+- **PTE**
+  - [PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](http://dl.acm.org/citation.cfm?id=2783307), KDD'15
+  - [[C++]](https://github.com/mnqu/PTE)
+- **GraRep**
+  - [Grarep: Learning graph representations with global structural information](http://dl.acm.org/citation.cfm?id=2806512), CIKM'15
+  - [[Matlab]](https://github.com/ShelsonCao/GraRep)
+- **KB2E**
+  - [Learning Entity and Relation Embeddings for Knowledge Graph Completion](http://dl.acm.org/citation.cfm?id=2886624), AAAI'15
+  - [[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2015_transr.pdf) [[C++]](https://github.com/thunlp/KB2E)  [[faster version]](https://github.com/thunlp/Fast-TransX)
+- **TADW**
+  - [Network Representation Learning with Rich Text Information](http://dl.acm.org/citation.cfm?id=2832542), IJCAI'15
+  - [[paper]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf) [[Matlab]](https://github.com/thunlp/tadw)
+- **DeepWalk**
+  - [DeepWalk: Online Learning of Social Representations](http://dl.acm.org/citation.cfm?id=2623732), KDD'14
+  - [[arxiv]](https://arxiv.org/abs/1403.6652) [[Python]](https://github.com/phanein/deepwalk)
+- **GEM**
+  - Graph Embedding Techniques, Applications, and Performance: A Survey
+  - [[arxiv]](https://arxiv.org/abs/1705.02801) [[MIX]](https://github.com/palash1992/GEM)
 
 # Paper References
 

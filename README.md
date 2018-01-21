@@ -95,6 +95,9 @@ The task is to learn the representations of the vertices from a given network.
 - **GEM**
   - Graph Embedding Techniques, Applications, and Performance: A Survey
   - [[arxiv]](https://arxiv.org/abs/1705.02801) [[MIX]](https://github.com/palash1992/GEM)
+- **Poincare**
+  - [Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039), arXiv 2017
+  - [[Python]](https://radimrehurek.com/gensim/models/poincare.html)
 
 # Paper References
 
@@ -139,8 +142,6 @@ The task is to learn the representations of the vertices from a given network.
 [Walklets: Multiscale Graph Embeddings for Interpretable Network Classification](https://arxiv.org/abs/1605.02115), arxiv
 
 [Comprehend DeepWalk as Matrix Factorization](https://arxiv.org/abs/1501.00358), arxiv
-
-[Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039), arXiv 2017
 
 # Conference & Workshop
 

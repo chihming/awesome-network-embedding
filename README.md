@@ -97,7 +97,7 @@ The task is to learn the representations of the vertices from a given network.
   - [[arxiv]](https://arxiv.org/abs/1705.02801) [[MIX]](https://github.com/palash1992/GEM)
 - **Poincare**
   - [Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039), arXiv 2017
-  - [[Python]](https://radimrehurek.com/gensim/models/poincare.html)
+  - [[Python]](https://radimrehurek.com/gensim/models/poincare.html) [[C++]](https://github.com/TatsuyaShirakawa/poincare-embedding)
 
 # Paper References
 

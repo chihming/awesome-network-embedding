@@ -11,6 +11,12 @@ The task is to learn the representations of the vertices from a given network.
 
 # Paper References with the implementation(s)
 
+- **Poincare**
+  - [Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039), arXiv 2017
+  - [[Python]](https://radimrehurek.com/gensim/models/poincare.html) [[C++]](https://github.com/TatsuyaShirakawa/poincare-embedding)
+- **PEUNE**
+  - [PRUNE: Preserving Proximity and Global Ranking for Network Embedding](https://papers.nips.cc/paper/7110-prune-preserving-proximity-and-global-ranking-for-network-embedding), NIPS 2017
+  - [[code]](https://github.com/ntumslab/PRUNE)
 - **ASNE**
   - Attributed Social Network Embedding, arxiv'17
   - [[arxiv]](https://arxiv.org/abs/1706.01860) [[Python]](https://github.com/lizi-git/ASNE)
@@ -95,9 +101,7 @@ The task is to learn the representations of the vertices from a given network.
 - **GEM**
   - Graph Embedding Techniques, Applications, and Performance: A Survey
   - [[arxiv]](https://arxiv.org/abs/1705.02801) [[MIX]](https://github.com/palash1992/GEM)
-- **Poincare**
-  - [Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039), arXiv 2017
-  - [[Python]](https://radimrehurek.com/gensim/models/poincare.html) [[C++]](https://github.com/TatsuyaShirakawa/poincare-embedding)
+
 
 # Paper References
 

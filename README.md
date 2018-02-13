@@ -11,6 +11,12 @@ The task is to learn the representations of the vertices from a given network.
 
 # Paper References with the implementation(s)
 
+- **GEMSEC**
+  - [GEMSEC: Graph Embedding with Self Clustering](https://arxiv.org/abs/1802.03997), arXiv 2018
+  - [[Python]](https://github.com/benedekrozemberczki/GEMSEC) 
+- **diff2vec**
+  - [Fast Sequence Based Embedding with Diffusion Graphs](http://homepages.inf.ed.ac.uk/s1668259/papers/sequence.pdf), CompleNet 2018
+  - [[Python]](https://github.com/benedekrozemberczki/diff2vec) 
 - **Poincare**
   - [Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039), arXiv 2017
   - [[Python]](https://radimrehurek.com/gensim/models/poincare.html) [[C++]](https://github.com/TatsuyaShirakawa/poincare-embedding)

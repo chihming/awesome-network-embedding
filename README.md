@@ -65,6 +65,9 @@ The task is to learn the representations of the vertices from a given network.
 - **TransNet**
   - TransNet: Translation-Based Network Representation Learning for Social Relation Extraction, IJCAI'17
   - [[Python Tensorflow]](https://github.com/thunlp/TransNet)
+- **cnn_graph**
+  - Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering, NIPS'16
+  - [[Python]](https://github.com/mdeff/cnn_graph)
 - **ConvE**
   - [Convolutional 2D Knowledge Graph Embeddings](https://arxiv.org/pdf/1707.01476v2.pdf), arxiv
   - [[source]](https://github.com/TimDettmers/ConvE)

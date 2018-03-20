@@ -167,7 +167,9 @@ The task is to learn the representations of the vertices from a given network.
 
 [awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
 
-[Must-read papers on NRL/NE.](https://github.com/thunlp/NRLPapers)
+[Must-read papers on network representation learning (NRL) / network embedding (NE)](https://github.com/thunlp/NRLPapers)
+
+[Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)](https://github.com/thunlp/KRLPapers)
 
 [Network Embedding Resources](https://github.com/nate-russell/Network-Embedding-Resources)
 

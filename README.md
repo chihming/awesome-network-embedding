@@ -112,7 +112,7 @@ The task is to learn the representations of the vertices from a given network.
   - [[arxiv]](https://arxiv.org/abs/1403.6652) [[Python]](https://github.com/phanein/deepwalk)
 - **GEM**
   - Graph Embedding Techniques, Applications, and Performance: A Survey
-  - [[arxiv]](https://arxiv.org/abs/1705.02801) [[MIX]](https://github.com/palash1992/GEM)
+  - [[arxiv]](https://arxiv.org/abs/1705.02801) [[Python]](https://github.com/palash1992/GEM)
 
 
 # Paper References

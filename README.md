@@ -7,7 +7,7 @@ Also called network representation learning, graph embedding, knowledge embeddin
 
 The task is to learn the representations of the vertices from a given network.
 
-<img src="http://cherry.cs.nccu.edu.tw/~g10018/portfolio/images/NE.png" width="480">
+<img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
 

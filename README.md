@@ -15,7 +15,7 @@ The task is to learn the representations of the vertices from a given network.
   - [RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding.](https://zhengwang100.github.io/AAAI18_RSDNE.pdf), AAAI 2018
   - [[Matlab]](https://github.com/zhengwang100/RSDNE) 
 - **FastGCN**
-  - [FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling](https://arxiv.org/abs/1801.10247), arXiv 2018
+  - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling [Arxiv](https://arxiv.org/abs/1801.10247), [ICLR 2018](https://openreview.net/forum?id=rytstxWAW)
   - [[Python]](https://github.com/matenure/FastGCN) 
 - **GEMSEC**
   - [GEMSEC: Graph Embedding with Self Clustering](https://arxiv.org/abs/1802.03997), arXiv 2018

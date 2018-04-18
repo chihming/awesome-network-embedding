@@ -7,10 +7,13 @@ Also called network representation learning, graph embedding, knowledge embeddin
 
 The task is to learn the representations of the vertices from a given network.
 
-<img src="http://cherry.cs.nccu.edu.tw/~g10018/portfolio/images/NE.png" width="480">
+<img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
 
+- **RSDNE**
+  - [RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding.](https://zhengwang100.github.io/AAAI18_RSDNE.pdf), AAAI 2018
+  - [[Matlab]](https://github.com/zhengwang100/RSDNE) 
 - **FastGCN**
   - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling 
   - [[Arxiv]](https://arxiv.org/abs/1801.10247), [[ICLR 2018 OpenReview]](https://openreview.net/forum?id=rytstxWAW)

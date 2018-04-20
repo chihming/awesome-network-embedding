@@ -26,7 +26,7 @@ The task is to learn the representations of the vertices from a given network.
   - [[Python]](https://github.com/benedekrozemberczki/diff2vec) 
 - **Poincare**
   - [Poincaré Embeddings for Learning Hierarchical Representations](https://papers.nips.cc/paper/7213-poincare-embeddings-for-learning-hierarchical-representations), NIPS 2017
-  - [[Python]](https://radimrehurek.com/gensim/models/poincare.html) [[C++]](https://github.com/TatsuyaShirakawa/poincare-embedding)
+  - [[PyTorch]](https://github.com/facebookresearch/poincare-embeddings) [[Python]](https://radimrehurek.com/gensim/models/poincare.html) [[C++]](https://github.com/TatsuyaShirakawa/poincare-embedding)
 - **PEUNE**
   - [PRUNE: Preserving Proximity and Global Ranking for Network Embedding](https://papers.nips.cc/paper/7110-prune-preserving-proximity-and-global-ranking-for-network-embedding), NIPS 2017
   - [[code]](https://github.com/ntumslab/PRUNE)

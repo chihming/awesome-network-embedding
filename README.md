@@ -45,7 +45,7 @@ The task is to learn the representations of the vertices from a given network.
   - [[arxiv]](https://arxiv.org/abs/1711.00227) [[code]](https://github.com/cnclabs/proNet-core)
 - **struc2vec**
   - [struc2vec: Learning Node Representations from Structural Identity](https://dl.acm.org/citation.cfm?id=3098061), KDD'17
-  - [[Python]](https://dl.acm.org/citation.cfm?id=3098061)
+  - [[Python]](https://github.com/leoribeiro/struc2vec)
 - **ComE**
   - Learning Community Embedding with Community Detection and Node Embedding on Graphs, CIKM'17
   - [[Python]](https://github.com/andompesta/ComE)

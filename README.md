@@ -210,6 +210,7 @@ The task is to learn the representations of the vertices from a given network.
 # Conference & Workshop
 
 [13th International Workshop on Mining and Learning with Graphs](http://www.mlgworkshop.org/2017/), **MLG'17**
+
 [WWW-18 Tutorial Representation Learning on Networks](http://snap.stanford.edu/proj/embeddings-www/), **WWW'18**
 
 # Related List

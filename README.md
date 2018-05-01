@@ -10,7 +10,54 @@ The task is to learn the representations of the vertices from a given network.
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
-
+- **HOPE**
+  - [Asymmetric Transitivity Preserving Graph Embedding]
+  - [[KDD 2016]](http://www.kdd.org/kdd2016/papers/files/rfp0184-ouA.pdf)
+  - [[Python]](https://github.com/AnryYang/HOPE) 
+- **VERSE**
+  - [VERSE, Versatile Graph Embeddings from Similarity Measures]
+  - [[Arxiv]] (https://arxiv.org/abs/1803.04742) [[WWW 2018]]
+  - [[Python]](https://github.com/xgfs/verse) 
+- **AGNN**
+  - [Attention-based Graph Neural Network for semi-supervised learning]
+  - [[ICLR 2018 OpenReview (rejected)]] (https://openreview.net/forum?id=rJg4YGWRb)
+  - [[Python]](https://github.com/dawnranger/pytorch-AGNN)   
+- **Hyperbolics**
+  - [Representation Tradeoffs for Hyperbolic Embeddings] 
+  - [[Arxiv]](https://arxiv.org/abs/1804.03329)
+  - [[Python]](https://github.com/HazyResearch/hyperbolics)   
+- **DGCNN**
+  - [An End-to-End Deep Learning Architecture for Graph Classiﬁcation] 
+  - [[AAAI 2018]](http://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
+  - [[Lua]](https://github.com/muhanzhang/DGCNN) [[Python]](https://github.com/muhanzhang/pytorch_DGCNN)  
+- **structure2vec**
+  - [Discriminative Embeddings of Latent Variable Models for Structured Data] 
+  - [[Arxive](https://arxiv.org/abs/1603.05629)
+  - [[Python]](https://github.com/Hanjun-Dai/pytorch_structure2vec)  
+- **Decagon**
+  - [Decagon, Graph Neural Network for Multirelational Link Prediction] 
+  - [[Arxive](https://arxiv.org/abs/1802.00543) [[SNAP]] (http://snap.stanford.edu/decagon/) [[ISMB 2018]]
+  - [[Python]](https://github.com/marinkaz/decagon)    
+- **Ohmnet**
+  - [Feature Learning in Multi-Layer Networks] 
+  - [[Arxive](https://arxiv.org/abs/1707.04638) [[SNAP]] (http://snap.stanford.edu/ohmnet/) 
+  - [[Python]](https://github.com/marinkaz/ohmnet)  
+- **SDNE**
+  - [Structural Deep Network Embedding] 
+  - [[KDD 2016]](http://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf)
+  - [[Python]](https://github.com/xiaohan2012/sdne-keras) 
+- **STWalk**
+  - [STWalk: Learning Trajectory Representations in Temporal Graphs] 
+  - [[Arxive](https://arxiv.org/abs/1711.04150)
+  - [[Python]](https://github.com/supriya-pandhre/STWalk)
+- **LoNGAE**
+  - [Learning to Make Predictions on Graphs with Autoencoders] 
+  - [[Arxive](https://arxiv.org/abs/1802.08352)
+  - [[Python]](https://github.com/vuptran/graph-representation-learning)  
+- **LINE**
+  - [Learning to Make Predictions on Graphs with Autoencoders] 
+  - [[Arxive](https://arxiv.org/abs/1503.03578) [[WWW 2015]]
+  - [[C++]](https://github.com/tangjianpku/LINE) [[Python TF]](https://github.com/snowkylin/line) [[Python Theano/Keras]](https://github.com/VahidooX/LINE)
 - **RSDNE**
   - [RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding.](https://zhengwang100.github.io/AAAI18_RSDNE.pdf), AAAI 2018
   - [[Matlab]](https://github.com/zhengwang100/RSDNE) 
@@ -78,7 +125,7 @@ The task is to learn the representations of the vertices from a given network.
   - [[source]](https://github.com/TimDettmers/ConvE)
 - **node2vec**
   - [node2vec: Scalable Feature Learning for Networks](http://dl.acm.org/citation.cfm?id=2939672.2939754), KDD'16
-  - [[arxiv]](https://arxiv.org/abs/1607.00653) [[Python]](https://github.com/aditya-grover/node2vec) [[Python-2]](https://github.com/apple2373/node2vec)
+  - [[arxiv]](https://arxiv.org/abs/1607.00653) [[Python]](https://github.com/aditya-grover/node2vec) [[Python-2]](https://github.com/apple2373/node2vec) [[Python-3]](https://github.com/eliorc/node2vec) [[C++]](https://github.com/xgfs/node2vec-c)  
 - **DNGR**
   - [Deep Neural Networks for Learning Graph Representations](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12423), AAAI'16
   - [[Matlab]](https://github.com/ShelsonCao/DNGR) [[Python Keras]](https://github.com/MdAsifKhan/DNGR-Keras)
@@ -114,14 +161,16 @@ The task is to learn the representations of the vertices from a given network.
   - [[paper]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf) [[Matlab]](https://github.com/thunlp/tadw)
 - **DeepWalk**
   - [DeepWalk: Online Learning of Social Representations](http://dl.acm.org/citation.cfm?id=2623732), KDD'14
-  - [[arxiv]](https://arxiv.org/abs/1403.6652) [[Python]](https://github.com/phanein/deepwalk)
+  - [[arxiv]](https://arxiv.org/abs/1403.6652) [[Python]](https://github.com/phanein/deepwalk)  [[C++]](https://github.com/xgfs/deepwalk-c)
 - **GEM**
   - Graph Embedding Techniques, Applications, and Performance: A Survey
   - [[arxiv]](https://arxiv.org/abs/1705.02801) [[Python]](https://github.com/palash1992/GEM)
 
 
 # Paper References
+**MINES**, [Multi-Dimensional Network Embedding with Hierarchical Structure](http://cse.msu.edu/~mayao4/downloads/Multidimensional_Network_Embedding_with_Hierarchical_Structure.pdf)
 
+[Walk-Steered Convolution for Graph Classification](https://arxiv.org/abs/1804.05837)
 
 [Deep Feature Learning for Graphs](https://arxiv.org/abs/1704.08829), arxiv'17
 
@@ -167,6 +216,7 @@ The task is to learn the representations of the vertices from a given network.
 # Conference & Workshop
 
 [13th International Workshop on Mining and Learning with Graphs](http://www.mlgworkshop.org/2017/), **MLG'17**
+[WWW-18 Tutorial Representation Learning on Networks](http://snap.stanford.edu/proj/embeddings-www/), **WWW'18**
 
 # Related List
 

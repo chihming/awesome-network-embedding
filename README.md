@@ -16,11 +16,11 @@ The task is to learn the representations of the vertices from a given network.
   - [[Python]](https://github.com/AnryYang/HOPE) 
 - **VERSE**
   - VERSE, Versatile Graph Embeddings from Similarity Measures
-  - [[Arxiv]] (https://arxiv.org/abs/1803.04742) [[WWW 2018]]
+  - [[Arxiv]](https://arxiv.org/abs/1803.04742) [[WWW 2018]]
   - [[Python]](https://github.com/xgfs/verse) 
 - **AGNN**
   - Attention-based Graph Neural Network for semi-supervised learning
-  - [[ICLR 2018 OpenReview (rejected)]] (https://openreview.net/forum?id=rJg4YGWRb)
+  - [[ICLR 2018 OpenReview (rejected)]](https://openreview.net/forum?id=rJg4YGWRb)
   - [[Python]](https://github.com/dawnranger/pytorch-AGNN)   
 - **Hyperbolics**
   - Representation Tradeoffs for Hyperbolic Embeddings 
@@ -36,11 +36,11 @@ The task is to learn the representations of the vertices from a given network.
   - [[Python]](https://github.com/Hanjun-Dai/pytorch_structure2vec)  
 - **Decagon**
   - Decagon, Graph Neural Network for Multirelational Link Prediction 
-  - [[Arxiv]](https://arxiv.org/abs/1802.00543) [[SNAP]] (http://snap.stanford.edu/decagon/) [[ISMB 2018]]
+  - [[Arxiv]](https://arxiv.org/abs/1802.00543) [[SNAP]](http://snap.stanford.edu/decagon/) [[ISMB 2018]]
   - [[Python]](https://github.com/marinkaz/decagon)    
 - **Ohmnet**
   - Feature Learning in Multi-Layer Networks 
-  - [[Arxiv]](https://arxiv.org/abs/1707.04638) [[SNAP]] (http://snap.stanford.edu/ohmnet/) 
+  - [[Arxiv]](https://arxiv.org/abs/1707.04638) [[SNAP]](http://snap.stanford.edu/ohmnet/) 
   - [[Python]](https://github.com/marinkaz/ohmnet)  
 - **SDNE**
   - Structural Deep Network Embedding 

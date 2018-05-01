@@ -11,53 +11,49 @@ The task is to learn the representations of the vertices from a given network.
 
 # Paper References with the implementation(s)
 - **HOPE**
-  - [Asymmetric Transitivity Preserving Graph Embedding]
+  - Asymmetric Transitivity Preserving Graph Embedding
   - [[KDD 2016]](http://www.kdd.org/kdd2016/papers/files/rfp0184-ouA.pdf)
   - [[Python]](https://github.com/AnryYang/HOPE) 
 - **VERSE**
-  - [VERSE, Versatile Graph Embeddings from Similarity Measures]
+  - VERSE, Versatile Graph Embeddings from Similarity Measures
   - [[Arxiv]] (https://arxiv.org/abs/1803.04742) [[WWW 2018]]
   - [[Python]](https://github.com/xgfs/verse) 
 - **AGNN**
-  - [Attention-based Graph Neural Network for semi-supervised learning]
+  - Attention-based Graph Neural Network for semi-supervised learning
   - [[ICLR 2018 OpenReview (rejected)]] (https://openreview.net/forum?id=rJg4YGWRb)
   - [[Python]](https://github.com/dawnranger/pytorch-AGNN)   
 - **Hyperbolics**
-  - [Representation Tradeoffs for Hyperbolic Embeddings] 
+  - Representation Tradeoffs for Hyperbolic Embeddings 
   - [[Arxiv]](https://arxiv.org/abs/1804.03329)
   - [[Python]](https://github.com/HazyResearch/hyperbolics)   
 - **DGCNN**
-  - [An End-to-End Deep Learning Architecture for Graph Classiﬁcation] 
+  - An End-to-End Deep Learning Architecture for Graph Classiﬁcation 
   - [[AAAI 2018]](http://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
   - [[Lua]](https://github.com/muhanzhang/DGCNN) [[Python]](https://github.com/muhanzhang/pytorch_DGCNN)  
 - **structure2vec**
-  - [Discriminative Embeddings of Latent Variable Models for Structured Data] 
+  - Discriminative Embeddings of Latent Variable Models for Structured Data 
   - [[Arxive](https://arxiv.org/abs/1603.05629)
   - [[Python]](https://github.com/Hanjun-Dai/pytorch_structure2vec)  
 - **Decagon**
-  - [Decagon, Graph Neural Network for Multirelational Link Prediction] 
+  - Decagon, Graph Neural Network for Multirelational Link Prediction 
   - [[Arxive](https://arxiv.org/abs/1802.00543) [[SNAP]] (http://snap.stanford.edu/decagon/) [[ISMB 2018]]
   - [[Python]](https://github.com/marinkaz/decagon)    
 - **Ohmnet**
-  - [Feature Learning in Multi-Layer Networks] 
+  - Feature Learning in Multi-Layer Networks 
   - [[Arxive](https://arxiv.org/abs/1707.04638) [[SNAP]] (http://snap.stanford.edu/ohmnet/) 
   - [[Python]](https://github.com/marinkaz/ohmnet)  
 - **SDNE**
-  - [Structural Deep Network Embedding] 
+  - Structural Deep Network Embedding 
   - [[KDD 2016]](http://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf)
   - [[Python]](https://github.com/xiaohan2012/sdne-keras) 
 - **STWalk**
-  - [STWalk: Learning Trajectory Representations in Temporal Graphs] 
+  - STWalk: Learning Trajectory Representations in Temporal Graphs] 
   - [[Arxive](https://arxiv.org/abs/1711.04150)
   - [[Python]](https://github.com/supriya-pandhre/STWalk)
 - **LoNGAE**
-  - [Learning to Make Predictions on Graphs with Autoencoders] 
+  - Learning to Make Predictions on Graphs with Autoencoders 
   - [[Arxive](https://arxiv.org/abs/1802.08352)
   - [[Python]](https://github.com/vuptran/graph-representation-learning)  
-- **LINE**
-  - [Learning to Make Predictions on Graphs with Autoencoders] 
-  - [[Arxive](https://arxiv.org/abs/1503.03578) [[WWW 2015]]
-  - [[C++]](https://github.com/tangjianpku/LINE) [[Python TF]](https://github.com/snowkylin/line) [[Python Theano/Keras]](https://github.com/VahidooX/LINE)
 - **RSDNE**
   - [RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding.](https://zhengwang100.github.io/AAAI18_RSDNE.pdf), AAAI 2018
   - [[Matlab]](https://github.com/zhengwang100/RSDNE) 
@@ -146,7 +142,7 @@ The task is to learn the representations of the vertices from a given network.
   - [[code]](https://github.com/lqhl/PowerWalk)
 - **LINE**
   - [LINE: Large-scale information network embedding](http://dl.acm.org/citation.cfm?id=2741093), WWW'15
-  - [[arxiv]](https://arxiv.org/abs/1503.03578) [[C++]](https://github.com/tangjianpku/LINE)
+  - [[arxiv]](https://arxiv.org/abs/1503.03578) [[C++]](https://github.com/tangjianpku/LINE) [[Python TF]](https://github.com/snowkylin/line) [[Python Theano/Keras]](https://github.com/VahidooX/LINE)
 - **PTE**
   - [PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](http://dl.acm.org/citation.cfm?id=2783307), KDD'15
   - [[C++]](https://github.com/mnqu/PTE)

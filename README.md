@@ -32,15 +32,15 @@ The task is to learn the representations of the vertices from a given network.
   - [[Lua]](https://github.com/muhanzhang/DGCNN) [[Python]](https://github.com/muhanzhang/pytorch_DGCNN)  
 - **structure2vec**
   - Discriminative Embeddings of Latent Variable Models for Structured Data 
-  - [[Arxive](https://arxiv.org/abs/1603.05629)
+  - [[Arxiv]](https://arxiv.org/abs/1603.05629)
   - [[Python]](https://github.com/Hanjun-Dai/pytorch_structure2vec)  
 - **Decagon**
   - Decagon, Graph Neural Network for Multirelational Link Prediction 
-  - [[Arxive](https://arxiv.org/abs/1802.00543) [[SNAP]] (http://snap.stanford.edu/decagon/) [[ISMB 2018]]
+  - [[Arxiv]](https://arxiv.org/abs/1802.00543) [[SNAP]] (http://snap.stanford.edu/decagon/) [[ISMB 2018]]
   - [[Python]](https://github.com/marinkaz/decagon)    
 - **Ohmnet**
   - Feature Learning in Multi-Layer Networks 
-  - [[Arxive](https://arxiv.org/abs/1707.04638) [[SNAP]] (http://snap.stanford.edu/ohmnet/) 
+  - [[Arxiv]](https://arxiv.org/abs/1707.04638) [[SNAP]] (http://snap.stanford.edu/ohmnet/) 
   - [[Python]](https://github.com/marinkaz/ohmnet)  
 - **SDNE**
   - Structural Deep Network Embedding 
@@ -48,11 +48,11 @@ The task is to learn the representations of the vertices from a given network.
   - [[Python]](https://github.com/xiaohan2012/sdne-keras) 
 - **STWalk**
   - STWalk: Learning Trajectory Representations in Temporal Graphs] 
-  - [[Arxive](https://arxiv.org/abs/1711.04150)
+  - [[Arxiv]](https://arxiv.org/abs/1711.04150)
   - [[Python]](https://github.com/supriya-pandhre/STWalk)
 - **LoNGAE**
   - Learning to Make Predictions on Graphs with Autoencoders 
-  - [[Arxive](https://arxiv.org/abs/1802.08352)
+  - [[Arxiv]](https://arxiv.org/abs/1802.08352)
   - [[Python]](https://github.com/vuptran/graph-representation-learning)  
 - **RSDNE**
   - [RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding.](https://zhengwang100.github.io/AAAI18_RSDNE.pdf), AAAI 2018
@@ -190,8 +190,6 @@ The task is to learn the representations of the vertices from a given network.
 [[Bonus Animation]](https://twitter.com/abojchevski/status/885502050133585925)
 
 [Scalable Graph Embedding for Asymmetric Proximity](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14696), AAAI'17
-
-[Structural Deep Network Embedding](http://dl.acm.org/citation.cfm?id=2939753), KDD'16
 
 [Query-based Music Recommendations via Preference Embedding](http://dl.acm.org/citation.cfm?id=2959169), RecSys'16
 

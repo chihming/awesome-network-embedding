@@ -94,7 +94,7 @@ The task is to learn the representations of the vertices from a given network.
   - [[Python]](https://github.com/andompesta/ComE)
 - **GraphSAGE**
   - Inductive Representation Learning on Large Graphs, NIPS'17
-  - [[arxiv]](https://arxiv.org/abs/1706.02216) [[Python]](https://github.com/williamleif/GraphSAGE)
+  - [[arxiv]](https://arxiv.org/abs/1706.02216) [[TF]](https://github.com/williamleif/GraphSAGE) [[PyTorch]](https://github.com/williamleif/graphsage-simple/) 
 - **ICE**
   - [ICE: Item Concept Embedding via Textual Information](http://dl.acm.org/citation.cfm?id=3080807), SIGIR'17
   - [[demo]](https://cnclabs.github.io/ICE/) [[code]](https://github.com/cnclabs/ICE)
@@ -164,6 +164,12 @@ The task is to learn the representations of the vertices from a given network.
 
 
 # Paper References
+
+**Role2Vec**, [Learning Role-based Graph Embeddings] (https://arxiv.org/abs/1802.02896)
+
+**edge2vec**, [Feature Propagation on Graph: A New Perspective to Graph Representation
+Learning] (https://arxiv.org/abs/1804.06111)
+
 **MINES**, [Multi-Dimensional Network Embedding with Hierarchical Structure](http://cse.msu.edu/~mayao4/downloads/Multidimensional_Network_Embedding_with_Hierarchical_Structure.pdf)
 
 [Walk-Steered Convolution for Graph Classification](https://arxiv.org/abs/1804.05837)

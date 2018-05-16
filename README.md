@@ -10,6 +10,10 @@ The task is to learn the representations of the vertices from a given network.
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
+- **BiNE**
+  - BiNE: Bipartite Network Embedding, SIGIR'18
+  - [[paper]](http://www.comp.nus.edu.sg/~xiangnan/papers/sigir18-bipartiteNE.pdf)
+  - [[Python]](https://github.com/clhchtcjj/BiNE)
 - **HOPE**
   - Asymmetric Transitivity Preserving Graph Embedding
   - [[KDD 2016]](http://www.kdd.org/kdd2016/papers/files/rfp0184-ouA.pdf)
@@ -164,6 +168,8 @@ The task is to learn the representations of the vertices from a given network.
 
 
 # Paper References
+
+[Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning](https://dl.acm.org/citation.cfm?id=3159711), WSDM '18
 
 **Role2Vec**, [Learning Role-based Graph Embeddings](https://arxiv.org/abs/1802.02896)
 

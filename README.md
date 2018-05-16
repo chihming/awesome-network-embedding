@@ -165,10 +165,10 @@ The task is to learn the representations of the vertices from a given network.
 
 # Paper References
 
-**Role2Vec**, [Learning Role-based Graph Embeddings] (https://arxiv.org/abs/1802.02896)
+**Role2Vec**, [Learning Role-based Graph Embeddings](https://arxiv.org/abs/1802.02896)
 
 **edge2vec**, [Feature Propagation on Graph: A New Perspective to Graph Representation
-Learning] (https://arxiv.org/abs/1804.06111)
+Learning](https://arxiv.org/abs/1804.06111)
 
 **MINES**, [Multi-Dimensional Network Embedding with Hierarchical Structure](http://cse.msu.edu/~mayao4/downloads/Multidimensional_Network_Embedding_with_Hierarchical_Structure.pdf)
 

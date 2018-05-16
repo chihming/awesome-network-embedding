@@ -171,6 +171,8 @@ The task is to learn the representations of the vertices from a given network.
 
 [Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning](https://dl.acm.org/citation.cfm?id=3159711), WSDM '18
 
+[Adversarial Network Embedding](https://arxiv.org/abs/1711.07838), arxiv
+
 **Role2Vec**, [Learning Role-based Graph Embeddings](https://arxiv.org/abs/1802.02896)
 
 **edge2vec**, [Feature Propagation on Graph: A New Perspective to Graph Representation

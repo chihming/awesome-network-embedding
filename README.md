@@ -10,6 +10,10 @@ The task is to learn the representations of the vertices from a given network.
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
+- **AWE**
+  - Anonymous Walk Embeddings, ICML'18
+  - [[paper]](https://www.researchgate.net/publication/325114285_Anonymous_Walk_Embeddings)
+  - [[Python]](https://github.com/nd7141/Anonymous-Walk-Embeddings)
 - **BiNE**
   - BiNE: Bipartite Network Embedding, SIGIR'18
   - [[paper]](http://www.comp.nus.edu.sg/~xiangnan/papers/sigir18-bipartiteNE.pdf)

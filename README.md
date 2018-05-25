@@ -96,6 +96,9 @@ The task is to learn the representations of the vertices from a given network.
 - **ComE**
   - Learning Community Embedding with Community Detection and Node Embedding on Graphs, CIKM'17
   - [[Python]](https://github.com/andompesta/ComE)
+  - **M-NMF**
+  - Community Preserving Network Embedding, AAAI'17
+  - [[Python]](https://github.com/benedekrozemberczki/M-NMF)
 - **GraphSAGE**
   - Inductive Representation Learning on Large Graphs, NIPS'17
   - [[arxiv]](https://arxiv.org/abs/1706.02216) [[TF]](https://github.com/williamleif/GraphSAGE) [[PyTorch]](https://github.com/williamleif/graphsage-simple/) 

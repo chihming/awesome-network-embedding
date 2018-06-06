@@ -10,6 +10,11 @@ The task is to learn the representations of the vertices from a given network.
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
+- **SIDE**
+  - SIDE: Representation Learning in Signed Directed Networks
+  - [[paper]](https://datalab.snu.ac.kr/side/resources/side.pdf)
+  - [[Python]](https://datalab.snu.ac.kr/side/resources/side.zip)
+  - [[Site]](https://datalab.snu.ac.kr/side/)
 - **AWE**
   - Anonymous Walk Embeddings, ICML'18
   - [[paper]](https://www.researchgate.net/publication/325114285_Anonymous_Walk_Embeddings)

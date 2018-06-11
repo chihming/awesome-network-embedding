@@ -181,6 +181,8 @@ The task is to learn the representations of the vertices from a given network.
 
 # Paper References
 
+**PinSAGE**, [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973)
+
 [Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning](https://dl.acm.org/citation.cfm?id=3159711), WSDM '18
 
 [Adversarial Network Embedding](https://arxiv.org/abs/1711.07838), arxiv

@@ -10,6 +10,18 @@ The task is to learn the representations of the vertices from a given network.
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
+- **AspEm**
+  - AspEm: Embedding Learning by Aspects in Heterogeneous Information Networks
+  - [[paper]](http://yushi2.web.engr.illinois.edu/sdm18.pdf)
+  - [[Python]](https://github.com/ysyushi/aspem)
+- **gat2vec**
+  - gat2vec: Representation learning for attributed graphs
+  - [[paper]](https://doi.org/10.1007/s00607-018-0622-9)
+  - [[Python]](https://github.com/snash4/GAT2VEC)
+- **FSCNMF**
+  - FSCNMF: Fusing Structure and Content via Non-negative Matrix Factorization for Embedding Information Networks
+  - [[paper]](https://arxiv.org/abs/1804.05313)
+  - [[Python]](https://github.com/sambaranban/FSCNMF)  
 - **SIDE**
   - SIDE: Representation Learning in Signed Directed Networks
   - [[paper]](https://datalab.snu.ac.kr/side/resources/side.pdf)
@@ -180,6 +192,8 @@ The task is to learn the representations of the vertices from a given network.
 
 
 # Paper References
+
+**MetaGraph2Vec**, [MetaGraph2Vec: Complex Semantic Path Augmented Heterogeneous Network Embedding](https://arxiv.org/abs/1803.02533)
 
 **PinSAGE**, [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973)
 

@@ -257,6 +257,8 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 # Related List
 
+[awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
+
 [awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
 
 [Must-read papers on network representation learning (NRL) / network embedding (NE)](https://github.com/thunlp/NRLPapers)

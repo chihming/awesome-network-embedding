@@ -165,7 +165,7 @@ The task is to learn the representations of the vertices from a given network.
 - **planetoid**
   - Revisiting Semi-supervised Learning with Graph Embeddings, ICML'16
   - [[arxiv]](https://arxiv.org/abs/1603.08861) [[Python]](https://github.com/kimiyoung/planetoid)
-  - **graph2vec**
+- **graph2vec**
   - graph2vec: Learning Distributed Representations of Graphs, KDD'17 MLGWorkshop
   - [[arxiv]](https://arxiv.org/abs/1707.05005) [[Python]](https://github.com/benedekrozemberczki/graph2vec)
 - **PowerWalk**

@@ -46,7 +46,11 @@ The task is to learn the representations of the vertices from a given network.
 - **AGNN**
   - Attention-based Graph Neural Network for semi-supervised learning
   - [[ICLR 2018 OpenReview (rejected)]](https://openreview.net/forum?id=rJg4YGWRb)
-  - [[Python]](https://github.com/dawnranger/pytorch-AGNN)   
+  - [[Python]](https://github.com/dawnranger/pytorch-AGNN)
+- **SEANO**
+  - Semi-supervised Embedding in Attributed Networks with Outliers
+  - [[Arxiv]](https://arxiv.org/pdf/1703.08100.pdf) [[SDM 2018]]
+  - [[Python]](http://jiongqianliang.com/SEANO/)   
 - **Hyperbolics**
   - Representation Tradeoffs for Hyperbolic Embeddings 
   - [[Arxiv]](https://arxiv.org/abs/1804.03329)
@@ -195,6 +199,7 @@ The task is to learn the representations of the vertices from a given network.
 
 
 # Paper References
+**MILE**, [MILE: A Multi-Level Framework for Scalable Graph Embedding](https://arxiv.org/pdf/1802.09612.pdf), arxiv'18
 
 **MetaGraph2Vec**, [MetaGraph2Vec: Complex Semantic Path Augmented Heterogeneous Network Embedding](https://arxiv.org/abs/1803.02533)
 

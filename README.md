@@ -49,7 +49,7 @@ The task is to learn the representations of the vertices from a given network.
   - [[Python]](https://github.com/dawnranger/pytorch-AGNN)
 - **SEANO**
   - Semi-supervised Embedding in Attributed Networks with Outliers
-  - [[Arxiv]](https://arxiv.org/pdf/1703.08100.pdf) [[SDM 2018]]
+  - [[Paper]](https://arxiv.org/pdf/1703.08100.pdf) (SDM 2018)
   - [[Python]](http://jiongqianliang.com/SEANO/)   
 - **Hyperbolics**
   - Representation Tradeoffs for Hyperbolic Embeddings 

@@ -14,6 +14,10 @@ The task is to learn the representations of the vertices from a given network.
   - AspEm: Embedding Learning by Aspects in Heterogeneous Information Networks
   - [[paper]](http://yushi2.web.engr.illinois.edu/sdm18.pdf)
   - [[Python]](https://github.com/ysyushi/aspem)
+- **Walklet**
+  - Don't Walk, Skip! Online Learning of Multi-scale Network Embeddings
+  - [[paper]](https://arxiv.org/pdf/1605.02115.pdf)
+  - [[Python]](https://github.com/benedekrozemberczki/walklets)  
 - **gat2vec**
   - gat2vec: Representation learning for attributed graphs
   - [[paper]](https://doi.org/10.1007/s00607-018-0622-9)

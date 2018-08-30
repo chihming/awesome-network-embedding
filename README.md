@@ -7,6 +7,8 @@ Also called network representation learning, graph embedding, knowledge embeddin
 
 The task is to learn the representations of the vertices from a given network.
 
+CALL FOR HELP: I'm planning to re-organize the papers with clear classification index in the near future. Please feel free to submit a commit if you find any interesting related work:)
+
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)

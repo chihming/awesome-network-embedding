@@ -28,6 +28,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - FSCNMF: Fusing Structure and Content via Non-negative Matrix Factorization for Embedding Information Networks
   - [[paper]](https://arxiv.org/abs/1804.05313)
   - [[Python]](https://github.com/sambaranban/FSCNMF)  
+  - [[Python]](https://github.com/benedekrozemberczki/FSCNMF)
 - **SIDE**
   - SIDE: Representation Learning in Signed Directed Networks
   - [[paper]](https://datalab.snu.ac.kr/side/resources/side.pdf)

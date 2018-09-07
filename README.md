@@ -12,6 +12,10 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
+- **LGCN**
+  - Large-Scale Learnable Graph Convolutional Networks, KDD'18
+  - [[paper]](http://www.kdd.org/kdd2018/accepted-papers/view/large-scale-learnable-graph-convolutional-networks)
+  - [[Python]](https://github.com/HongyangGao/LGCN)
 - **AspEm**
   - AspEm: Embedding Learning by Aspects in Heterogeneous Information Networks
   - [[paper]](http://yushi2.web.engr.illinois.edu/sdm18.pdf)

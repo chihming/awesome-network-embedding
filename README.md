@@ -12,6 +12,11 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
+- **PCTADW**
+  - Learning Embeddings of Directed Networks with Text-Associated Nodes---with Applications in Software Package Dependency Networks
+  - [[paper]](https://arxiv.org/pdf/1809.02270.pdf)
+  - [[Python]](https://github.com/shudan/PCTADW)
+  - [[dataset]](https://doi.org/10.5281/zenodo.1410669)
 - **LGCN**
   - Large-Scale Learnable Graph Convolutional Networks, KDD'18
   - [[paper]](http://www.kdd.org/kdd2018/accepted-papers/view/large-scale-learnable-graph-convolutional-networks)

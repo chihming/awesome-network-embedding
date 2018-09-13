@@ -132,6 +132,9 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **ComE**
   - Learning Community Embedding with Community Detection and Node Embedding on Graphs, CIKM'17
   - [[Python]](https://github.com/andompesta/ComE)
+- **BoostedNE**
+  - [Multi-Level Network Embedding with Boosted Low-Rank Matrix Approximation](https://arxiv.org/abs/1808.08627), '18
+  - [[Python]](https://github.com/benedekrozemberczki/BoostedFactorization)  
 - **M-NMF**
   - Community Preserving Network Embedding, AAAI'17
   - [[Python]](https://github.com/benedekrozemberczki/M-NMF)

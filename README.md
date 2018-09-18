@@ -124,7 +124,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **GraphWave**
   - [Spectral Graph Wavelets for Structural Role Similarity in Networks](http://snap.stanford.edu/graphwave/), 
   - [[arxiv]](https://arxiv.org/abs/1710.10321), [[ICLR 2018 OpenReview]](https://openreview.net/forum?id=rytstxWAW)
-  - [[Python]](https://github.com/snap-stanford/graphwave)
+  - [[Python]](https://github.com/snap-stanford/graphwave) [[faster version]](https://github.com/benedekrozemberczki/GraphWaveMachine)
 - **StarSpace**
   - [StarSpace: Embed All The Things!](https://arxiv.org/pdf/1709.03856), arxiv'17
   - [[code]](https://github.com/facebookresearch/Starspace)
@@ -208,7 +208,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - [[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2015_transr.pdf) [[C++]](https://github.com/thunlp/KB2E)  [[faster version]](https://github.com/thunlp/Fast-TransX)
 - **TADW**
   - [Network Representation Learning with Rich Text Information](http://dl.acm.org/citation.cfm?id=2832542), IJCAI'15
-  - [[paper]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf) [[Matlab]](https://github.com/thunlp/tadw)
+  - [[paper]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf) [[Matlab]](https://github.com/thunlp/tadw) [[Python]](https://github.com/benedekrozemberczki/TADW)
 - **DeepWalk**
   - [DeepWalk: Online Learning of Social Representations](http://dl.acm.org/citation.cfm?id=2623732), KDD'14
   - [[arxiv]](https://arxiv.org/abs/1403.6652) [[Python]](https://github.com/phanein/deepwalk)  [[C++]](https://github.com/xgfs/deepwalk-c)

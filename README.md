@@ -218,6 +218,8 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 
 
 # Paper References
+[Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/pdf/1806.08804.pdf), NIPS'18
+
 **MILE**, [MILE: A Multi-Level Framework for Scalable Graph Embedding](https://arxiv.org/pdf/1802.09612.pdf), arxiv'18
 
 **MetaGraph2Vec**, [MetaGraph2Vec: Complex Semantic Path Augmented Heterogeneous Network Embedding](https://arxiv.org/abs/1803.02533)

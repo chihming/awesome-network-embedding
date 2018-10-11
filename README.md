@@ -218,6 +218,8 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 
 
 # Paper References
+**SEMAC**, [Link Prediction via Subgraph Embedding-Based Convex Matrix Completion](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16442), AAAI 2018, [Slides](https://www.slideshare.net/gdm3003/semac-graph-node-embeddings-for-link-prediction)
+
 **MILE**, [MILE: A Multi-Level Framework for Scalable Graph Embedding](https://arxiv.org/pdf/1802.09612.pdf), arxiv'18
 
 **MetaGraph2Vec**, [MetaGraph2Vec: Complex Semantic Path Augmented Heterogeneous Network Embedding](https://arxiv.org/abs/1803.02533)

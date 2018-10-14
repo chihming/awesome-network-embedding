@@ -120,7 +120,10 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - [[code]](https://github.com/ntumslab/PRUNE)
 - **ASNE**
   - Attributed Social Network Embedding, arxiv'17
-  - [[arxiv]](https://arxiv.org/abs/1706.01860) [[Python]](https://github.com/lizi-git/ASNE)
+  - [[arxiv]](https://arxiv.org/abs/1706.01860)
+  - [[Python]](https://github.com/lizi-git/ASNE)
+  - [[Fast Python]](https://github.com/benedekrozemberczki/ASNE)
+    
 - **GraphWave**
   - [Spectral Graph Wavelets for Structural Role Similarity in Networks](http://snap.stanford.edu/graphwave/), 
   - [[arxiv]](https://arxiv.org/abs/1710.10321), [[ICLR 2018 OpenReview]](https://openreview.net/forum?id=rytstxWAW)
@@ -218,7 +221,10 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 
 
 # Paper References
+
 [Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/pdf/1806.08804.pdf), NIPS'18
+
+**SEMAC**, [Link Prediction via Subgraph Embedding-Based Convex Matrix Completion](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16442), AAAI 2018, [Slides](https://www.slideshare.net/gdm3003/semac-graph-node-embeddings-for-link-prediction)
 
 **MILE**, [MILE: A Multi-Level Framework for Scalable Graph Embedding](https://arxiv.org/pdf/1802.09612.pdf), arxiv'18
 

@@ -12,6 +12,10 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
+- GCN Insights
+  - Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning, AAAI'18
+  - [[Project]](https://liqimai.github.io/blog/AAAI-18/)
+  - [[code]](https://github.com/liqimai/gcn/tree/AAAI-18/)
 - **PCTADW**
   - Learning Embeddings of Directed Networks with Text-Associated Nodes---with Applications in Software Package Dependency Networks
   - [[paper]](https://arxiv.org/pdf/1809.02270.pdf)

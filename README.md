@@ -12,7 +12,13 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
-- GCN Insights
+- **BANE**
+  - Binarized Attributed Network Embedding, ICDM'18
+  - [[paper]](https://www.researchgate.net/publication/328688614_Binarized_Attributed_Network_Embedding)
+  - [[Python]](https://github.com/benedekrozemberczki/BANE)
+  - [[Matlab]](https://github.com/ICDM2018-BANE/BANE)
+
+- **GCN Insights**
   - Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning, AAAI'18
   - [[Project]](https://liqimai.github.io/blog/AAAI-18/)
   - [[code]](https://github.com/liqimai/gcn/tree/AAAI-18/)

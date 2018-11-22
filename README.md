@@ -12,12 +12,17 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
+
+- **DANMF**
+  - Deep Autoencoder-like Nonnegative Matrix Factorization for Community Detection, CIKM'18
+  - [[paper]](https://smartyfh.com/Documents/18DANMF.pdf)
+  - [[Python]](https://github.com/benedekrozemberczki/DANMF)
+  - [[Matlab]](https://github.com/smartyfh/DANMF)  
 - **BANE**
   - Binarized Attributed Network Embedding, ICDM'18
   - [[paper]](https://www.researchgate.net/publication/328688614_Binarized_Attributed_Network_Embedding)
   - [[Python]](https://github.com/benedekrozemberczki/BANE)
   - [[Matlab]](https://github.com/ICDM2018-BANE/BANE)
-
 - **GCN Insights**
   - Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning, AAAI'18
   - [[Project]](https://liqimai.github.io/blog/AAAI-18/)
@@ -35,7 +40,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - AspEm: Embedding Learning by Aspects in Heterogeneous Information Networks
   - [[paper]](http://yushi2.web.engr.illinois.edu/sdm18.pdf)
   - [[Python]](https://github.com/ysyushi/aspem)
-- **Walklet**
+- **Walklets**
   - Don't Walk, Skip! Online Learning of Multi-scale Network Embeddings
   - [[paper]](https://arxiv.org/pdf/1605.02115.pdf)
   - [[Python]](https://github.com/benedekrozemberczki/walklets)  

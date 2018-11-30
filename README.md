@@ -98,6 +98,10 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - Decagon, Graph Neural Network for Multirelational Link Prediction 
   - [[Arxiv]](https://arxiv.org/abs/1802.00543) [[SNAP]](http://snap.stanford.edu/decagon/) [[ISMB 2018]]
   - [[Python]](https://github.com/marinkaz/decagon)    
+- **DHNE**
+  - Structural Deep Embedding for Hyper-Networks
+  - [[AAAI 2018]](http://nrl.thumedialab.com/Structural-Deep-Embedding-for-Hyper-Networks)[[Arxiv]](https://arxiv.org/abs/1711.10146)
+  - [[Python]](https://github.com/tadpole/DHNE)  
 - **Ohmnet**
   - Feature Learning in Multi-Layer Networks 
   - [[Arxiv]](https://arxiv.org/abs/1707.04638) [[SNAP]](http://snap.stanford.edu/ohmnet/) 
@@ -138,7 +142,6 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - [[arxiv]](https://arxiv.org/abs/1706.01860)
   - [[Python]](https://github.com/lizi-git/ASNE)
   - [[Fast Python]](https://github.com/benedekrozemberczki/ASNE)
-    
 - **GraphWave**
   - [Spectral Graph Wavelets for Structural Role Similarity in Networks](http://snap.stanford.edu/graphwave/), 
   - [[arxiv]](https://arxiv.org/abs/1710.10321), [[ICLR 2018 OpenReview]](https://openreview.net/forum?id=rytstxWAW)

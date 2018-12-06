@@ -13,6 +13,10 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 
 # Paper References with the implementation(s)
 
+- **TENE**
+  - Enhanced Network Embedding with Text Information, ICPR'18
+  - [[paper]](https://github.com/benedekrozemberczki/TENE/blob/master/tene_paper.pdf)
+  - [[Python]](https://github.com/benedekrozemberczki/TENE) 
 - **DANMF**
   - Deep Autoencoder-like Nonnegative Matrix Factorization for Community Detection, CIKM'18
   - [[paper]](https://smartyfh.com/Documents/18DANMF.pdf)

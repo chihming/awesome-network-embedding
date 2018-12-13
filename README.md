@@ -13,6 +13,10 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 
 # Paper References with the implementation(s)
 
+- **SGCN**
+  - Signed Graph Convolutional Network, ICDM'18
+  - [[paper]](https://github.com/benedekrozemberczki/SGCN/blob/master/sgcn.pdf)
+  - [[Python]](https://github.com/benedekrozemberczki/SGCN)
 - **TENE**
   - Enhanced Network Embedding with Text Information, ICPR'18
   - [[paper]](https://github.com/benedekrozemberczki/TENE/blob/master/tene_paper.pdf)

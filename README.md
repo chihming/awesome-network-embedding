@@ -238,6 +238,9 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **TADW**
   - [Network Representation Learning with Rich Text Information](http://dl.acm.org/citation.cfm?id=2832542), IJCAI'15
   - [[paper]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf) [[Matlab]](https://github.com/thunlp/tadw) [[Python]](https://github.com/benedekrozemberczki/TADW)
+- **Watch Your Step**
+  - [Watch Your Step: Learning Node Embeddings via Graph Attention](https://papers.nips.cc/paper/8131-watch-your-step-learning-node-embeddings-via-graph-attention), NeurIPS'2018
+  - [[Python]](http://sami.haija.org/graph/context)
 - **DeepWalk**
   - [DeepWalk: Online Learning of Social Representations](http://dl.acm.org/citation.cfm?id=2623732), KDD'14
   - [[arxiv]](https://arxiv.org/abs/1403.6652) [[Python]](https://github.com/phanein/deepwalk)  [[C++]](https://github.com/xgfs/deepwalk-c)
@@ -272,8 +275,6 @@ Learning](https://arxiv.org/abs/1804.06111)
 [Walk-Steered Convolution for Graph Classification](https://arxiv.org/abs/1804.05837)
 
 [Deep Feature Learning for Graphs](https://arxiv.org/abs/1704.08829), arxiv'17
-
-[Watch Your Step: Learning Graph Embeddings Through Attention](https://arxiv.org/abs/1710.09599), arxiv'17
 
 [Fast Linear Model for Knowledge Graph Embeddings](https://arxiv.org/abs/1710.10881), arxiv'17
 

@@ -13,6 +13,11 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 
 # Paper References with the implementation(s)
 
+- **SINE**
+  - SINE: Scalable Incomplete Network Embedding, ICDM'18
+  - [[paper]](https://github.com/benedekrozemberczki/SINE/blob/master/paper.pdf)
+  - [[Python PyTorch]](https://github.com/benedekrozemberczki/SINE/)
+  - [[C++]](https://github.com/daokunzhang/SINE)
 - **SGCN**
   - Signed Graph Convolutional Network, ICDM'18
   - [[paper]](https://github.com/benedekrozemberczki/SGCN/blob/master/sgcn.pdf)

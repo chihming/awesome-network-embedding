@@ -13,6 +13,11 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 
 # Paper References with the implementation(s)
 
+- **AttentionWalk**
+  - Watch Your Step: Learning Node Embeddings via Graph Attention, NIPS'18
+  - [[paper]](https://github.com/benedekrozemberczki/AttentionWalk/blob/master/paper.pdf)
+  - [[Python PyTorch]](https://github.com/benedekrozemberczki/AttentionWalk)
+  - [[Python TensorFlow]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/)
 - **SINE**
   - SINE: Scalable Incomplete Network Embedding, ICDM'18
   - [[paper]](https://github.com/benedekrozemberczki/SINE/blob/master/paper.pdf)

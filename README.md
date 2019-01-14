@@ -16,6 +16,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **AttentionWalk**
   - Watch Your Step: Learning Node Embeddings via Graph Attention, NIPS'18
   - [[paper]](https://github.com/benedekrozemberczki/AttentionWalk/blob/master/paper.pdf)
+  - [[Python]](http://sami.haija.org/graph/context)
   - [[Python PyTorch]](https://github.com/benedekrozemberczki/AttentionWalk)
   - [[Python TensorFlow]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/)
 - **SINE**
@@ -248,9 +249,6 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **TADW**
   - [Network Representation Learning with Rich Text Information](http://dl.acm.org/citation.cfm?id=2832542), IJCAI'15
   - [[paper]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf) [[Matlab]](https://github.com/thunlp/tadw) [[Python]](https://github.com/benedekrozemberczki/TADW)
-- **Watch Your Step**
-  - [Watch Your Step: Learning Node Embeddings via Graph Attention](https://papers.nips.cc/paper/8131-watch-your-step-learning-node-embeddings-via-graph-attention), NeurIPS'2018
-  - [[Python]](http://sami.haija.org/graph/context)
 - **DeepWalk**
   - [DeepWalk: Online Learning of Social Representations](http://dl.acm.org/citation.cfm?id=2623732), KDD'14
   - [[arxiv]](https://arxiv.org/abs/1403.6652) [[Python]](https://github.com/phanein/deepwalk)  [[C++]](https://github.com/xgfs/deepwalk-c)

@@ -13,6 +13,10 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 
 # Paper References with the implementation(s)
 
+- **role2vec**
+  - Learning Role-based Graph Embeddings, IJCAI'18
+  - [[paper]](https://arxiv.org/pdf/1802.02896.pdf)
+  - [[Python]](https://github.com/benedekrozemberczki/role2vec)
 - **AttentionWalk**
   - Watch Your Step: Learning Node Embeddings via Graph Attention, NIPS'18
   - [[paper]](https://arxiv.org/pdf/1710.10903.pdf)

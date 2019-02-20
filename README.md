@@ -13,6 +13,16 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 
 # Paper References with the implementation(s)
 
+- **GWNN**
+  - Graph Wavelet Neural Network, ICLR'19
+  - [[paper]](https://openreview.net/forum?id=H1ewdiR5tQ)
+  - [[Python PyTorch]](https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork)
+  - [[Python TensorFlow]](https://github.com/Eilene/GWNN)
+  - **APPNP**
+  - Combining Neural Networks with Personalized PageRank for Classification on Graphs, ICLR'19
+  - [[paper]](https://arxiv.org/abs/1810.05997)
+  - [[Python PyTorch]](https://github.com/benedekrozemberczki/APPNP)
+  - [[Python TensorFlow]](https://github.com/klicperajo/ppnp)
 - **role2vec**
   - Learning Role-based Graph Embeddings, IJCAI'18
   - [[paper]](https://arxiv.org/pdf/1802.02896.pdf)

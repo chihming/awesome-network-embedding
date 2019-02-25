@@ -29,7 +29,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - [[Python]](https://github.com/benedekrozemberczki/role2vec)
 - **AttentionWalk**
   - Watch Your Step: Learning Node Embeddings via Graph Attention, NIPS'18
-  - [[paper]](https://arxiv.org/pdf/1710.10903.pdf)
+  - [[paper]](https://arxiv.org/pdf/1710.09599.pdf)
   - [[Python]](http://sami.haija.org/graph/context)
   - [[Python PyTorch]](https://github.com/benedekrozemberczki/AttentionWalk)
   - [[Python TensorFlow]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/)

@@ -212,6 +212,10 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **ICE**
   - [ICE: Item Concept Embedding via Textual Information](http://dl.acm.org/citation.cfm?id=3080807), SIGIR'17
   - [[demo]](https://cnclabs.github.io/ICE/) [[code]](https://github.com/cnclabs/ICE)
+- **GuidedHeteEmbedding**
+  - Task-guided and path-augmented heterogeneous network embedding for author identification, WSDM'17
+  - [[paper]](https://arxiv.org/pdf/1612.02814.pdf)
+  - [[code]](https://github.com/chentingpc/GuidedHeteEmbedding)
 - **metapath2vec**
   - metapath2vec: Scalable Representation Learning for Heterogeneous Networks, KDD'17
   - [[paper]](https://www3.nd.edu/~dial/publications/dong2017metapath2vec.pdf) [[project website]](https://ericdongyx.github.io/metapath2vec/m2v.html)

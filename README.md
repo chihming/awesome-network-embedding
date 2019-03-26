@@ -13,6 +13,11 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 
 # Paper References with the implementation(s)
 
+- **REGAL**
+  - REGAL: Representation Learning-based Graph Alignment. International Conference on Information and Knowledge Management, CIKM'18
+  - [[arxiv]](https://arxiv.org/pdf/1802.06257.pdf)
+  - [[paper]](https://dl.acm.org/citation.cfm?id=3271788)
+  - [[code]](https://github.com/GemsLab/REGAL)
 - **PyTorch Geometric**
   - Fast Graph Representation Learning With PyTorch Geometric
   - [[paper]](https://arxiv.org/pdf/1903.02428.pdf)

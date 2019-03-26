@@ -13,11 +13,15 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 
 # Paper References with the implementation(s)
 
+- **PyTorch Geometric**
+  - Fast Graph Representation Learning With PyTorch Geometric
+  - [[paper]](https://arxiv.org/pdf/1903.02428.pdf)
+  - [[Python PyTorch]](https://github.com/rusty1s/pytorch_geometric)
 - **TuckER**
   - Tensor Factorization for Knowledge Graph Completion, Arxiv'19
   - [[paper]](https://arxiv.org/pdf/1901.09590.pdf)
   - [[Python PyTorch]](https://github.com/ibalazevic/TuckER)
- - **HypER**
+- **HypER**
   - Hypernetwork Knowledge Graph Embeddings, Arxiv'18
   - [[paper]](https://arxiv.org/pdf/1808.07018.pdf)
   - [[Python PyTorch]](https://github.com/ibalazevic/HypER)
@@ -37,7 +41,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - [[Python]](https://github.com/benedekrozemberczki/role2vec)
 - **AttentionWalk**
   - Watch Your Step: Learning Node Embeddings via Graph Attention, NIPS'18
-  - [[paper]](https://arxiv.org/pdf/1710.10903.pdf)
+  - [[paper]](https://arxiv.org/pdf/1710.09599.pdf)
   - [[Python]](http://sami.haija.org/graph/context)
   - [[Python PyTorch]](https://github.com/benedekrozemberczki/AttentionWalk)
   - [[Python TensorFlow]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/)
@@ -216,6 +220,9 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **ICE**
   - [ICE: Item Concept Embedding via Textual Information](http://dl.acm.org/citation.cfm?id=3080807), SIGIR'17
   - [[demo]](https://cnclabs.github.io/ICE/) [[code]](https://github.com/cnclabs/ICE)
+- **GuidedHeteEmbedding**
+  - Task-guided and path-augmented heterogeneous network embedding for author identification, WSDM'17
+  - [[paper]](https://arxiv.org/pdf/1612.02814.pdf) [[code]](https://github.com/chentingpc/GuidedHeteEmbedding)
 - **metapath2vec**
   - metapath2vec: Scalable Representation Learning for Heterogeneous Networks, KDD'17
   - [[paper]](https://www3.nd.edu/~dial/publications/dong2017metapath2vec.pdf) [[project website]](https://ericdongyx.github.io/metapath2vec/m2v.html)

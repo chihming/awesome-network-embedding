@@ -17,6 +17,14 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - Fast Graph Representation Learning With PyTorch Geometric
   - [[paper]](https://arxiv.org/pdf/1903.02428.pdf)
   - [[Python PyTorch]](https://github.com/rusty1s/pytorch_geometric)
+- **TuckER**
+  - Tensor Factorization for Knowledge Graph Completion, Arxiv'19
+  - [[paper]](https://arxiv.org/pdf/1901.09590.pdf)
+  - [[Python PyTorch]](https://github.com/ibalazevic/TuckER)
+- **HypER**
+  - Hypernetwork Knowledge Graph Embeddings, Arxiv'18
+  - [[paper]](https://arxiv.org/pdf/1808.07018.pdf)
+  - [[Python PyTorch]](https://github.com/ibalazevic/HypER)
 - **GWNN**
   - Graph Wavelet Neural Network, ICLR'19
   - [[paper]](https://openreview.net/forum?id=H1ewdiR5tQ)

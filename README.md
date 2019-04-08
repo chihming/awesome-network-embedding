@@ -12,7 +12,18 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
-
+- **N-GCN**
+  - A Higher-Order Graph Convolutional Layer, NIPS'18 (workshop)
+  - [[paper]](http://sami.haija.org/papers/high-order-gc-layer.pdf)
+  - [[Python PyTorch]](https://github.com/benedekrozemberczki/NGCN)
+- **CapsGNN**
+  - Capsule Graph Neural Network, ICLR'19
+  - [[paper]](https://openreview.net/forum?id=Byl8BnRcYm)
+  - [[Python PyTorch]](https://github.com/benedekrozemberczki/CapsGNN)
+- **Splitter**
+  - Splitter: Learning Node Representations that Capture Multiple Social Contexts, WWW'19
+  - [[paper]](http://epasto.org/papers/www2019splitter.pdf)
+  - [[Python PyTorch]](https://github.com/benedekrozemberczki/Splitter)
 - **REGAL**
   - REGAL: Representation Learning-based Graph Alignment. International Conference on Information and Knowledge Management, CIKM'18
   - [[arxiv]](https://arxiv.org/pdf/1802.06257.pdf)

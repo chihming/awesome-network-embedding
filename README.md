@@ -12,6 +12,11 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
+- **ONE**
+  - Outlier Aware Network Embedding for Attributed Networks, AAAI'19
+  - [[paper]](https://arxiv.org/pdf/1811.07609.pdf)
+  - [[Python]](https://github.com/sambaranban/ONE)
+
 - **N-GCN**
   - A Higher-Order Graph Convolutional Layer, NIPS'18 (workshop)
   - [[paper]](http://sami.haija.org/papers/high-order-gc-layer.pdf)

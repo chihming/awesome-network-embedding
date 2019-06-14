@@ -313,7 +313,9 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **GEM**
   - Graph Embedding Techniques, Applications, and Performance: A Survey
   - [[arxiv]](https://arxiv.org/abs/1705.02801) [[Python]](https://github.com/palash1992/GEM)
-
+- **DNE-SBP**
+  - Deep Network Embedding for Graph Representation Learning in Signed Networks
+  - [[paper]](https://ieeexplore.ieee.org/document/8486671) [[Code]](https://github.com/shenxiaocam/Deep-network-embedding-for-graph-representation-learning-in-signed-networks)
 
 # Paper References
 

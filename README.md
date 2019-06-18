@@ -301,6 +301,8 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **GraRep**
   - [Grarep: Learning graph representations with global structural information](http://dl.acm.org/citation.cfm?id=2806512), CIKM'15
   - [[Matlab]](https://github.com/ShelsonCao/GraRep)
+  - [[Julia]](https://github.com/xgfs/GraRep.jl)
+  - [[Python]](https://github.com/benedekrozemberczki/GraRep)
 - **KB2E**
   - [Learning Entity and Relation Embeddings for Knowledge Graph Completion](http://dl.acm.org/citation.cfm?id=2886624), AAAI'15
   - [[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2015_transr.pdf) [[C++]](https://github.com/thunlp/KB2E)  [[faster version]](https://github.com/thunlp/Fast-TransX)

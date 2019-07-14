@@ -391,7 +391,7 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 # Related List
 
-[awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
+[awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 
 [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection)
 

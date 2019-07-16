@@ -16,6 +16,10 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks, KDD'19
   - [[Project]](http://snap.stanford.edu/jodie/)
   - [[Code]](https://github.com/srijankr/jodie/)
+- **ATP**
+  - ATP: Directed Graph Embedding with Asymmetric Transitivity Preservation, AAAI'19
+  - [[paper]](https://arxiv.org/abs/1811.00839)
+  - [[code]](https://github.com/zhenv5/atp)
 - **MUSAE**
   - Multi-scale Attributed Embedding of Networks
   - [[paper]](https://github.com/benedekrozemberczki/MUSAE/blob/master/musae_paper.pdf)

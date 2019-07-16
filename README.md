@@ -16,6 +16,9 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks, KDD'19
   - [[Project]](http://snap.stanford.edu/jodie/)
   - [[Code]](https://github.com/srijankr/jodie/)
+- **PyTorch-BigGraph**
+  - Pytorch-BigGraph - a distributed system for learning graph embeddings for large graphs, SysML'19
+  - [[github]](https://github.com/facebookresearch/PyTorch-BigGraph)
 - **ATP**
   - ATP: Directed Graph Embedding with Asymmetric Transitivity Preservation, AAAI'19
   - [[paper]](https://arxiv.org/abs/1811.00839)

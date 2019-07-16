@@ -13,7 +13,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 
 # Paper References with the implementation(s)
 - **jodie**
-  - Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks
+  - Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks, KDD'19
   - [[Project]](http://snap.stanford.edu/jodie/)
   - [[Code]](https://github.com/srijankr/jodie/)
 - **MUSAE**

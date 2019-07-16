@@ -12,6 +12,10 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
+- **jodie**
+  - Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks
+  - [[Project]](http://snap.stanford.edu/jodie/)
+  - [[Code]](https://github.com/srijankr/jodie/)
 - **MUSAE**
   - Multi-scale Attributed Embedding of Networks
   - [[paper]](https://github.com/benedekrozemberczki/MUSAE/blob/master/musae_paper.pdf)

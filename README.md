@@ -422,3 +422,4 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 **Stanford Network Analysis Project** [website](http://snap.stanford.edu/)
 
+**StellarGraph Machine Learning Library** [website](https://www.stellargraph.io) [GitHub](https://github.com/stellargraph/stellargraph)

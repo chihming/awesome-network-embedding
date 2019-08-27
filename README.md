@@ -12,6 +12,10 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
+- **AmpliGraph**
+  - Library for learning knowledge graph embeddings with TensorFlow 
+  - [[Project]](http://docs.ampligraph.org)
+  - [[code]](https://github.com/Accenture/AmpliGraph)
 - **jodie**
   - Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks, KDD'19
   - [[Project]](http://snap.stanford.edu/jodie/)

@@ -12,6 +12,10 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
+- **GEMSEC**
+  - GEMSEC: Graph Embedding with Self Clustering, ASONAM 2019
+  - [[Paper]](https://arxiv.org/abs/1802.03997)
+  - [[Python]](https://github.com/benedekrozemberczki/GEMSEC) 
 - **AmpliGraph**
   - Library for learning knowledge graph embeddings with TensorFlow 
   - [[Project]](http://docs.ampligraph.org)
@@ -28,8 +32,8 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - [[paper]](https://arxiv.org/abs/1811.00839)
   - [[code]](https://github.com/zhenv5/atp)
 - **MUSAE**
-  - Multi-scale Attributed Embedding of Networks
-  - [[paper]](https://github.com/benedekrozemberczki/MUSAE/blob/master/musae_paper.pdf)
+  - Multi-scale Attributed Node Embedding, ArXiv 2019
+  - [[paper]](https://arxiv.org/abs/1909.13021)
   - [[Python]](https://github.com/benedekrozemberczki/MUSAE)
 - **SEAL-CI**
   - Semi-Supervised Graph Classification: A Hierarchical Graph Perspective, WWW'19
@@ -38,7 +42,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **N-GCN**
   - A Higher-Order Graph Convolutional Layer, NIPS'18 (workshop)
   - [[paper]](http://sami.haija.org/papers/high-order-gc-layer.pdf)
-  - [[Python PyTorch]](https://github.com/benedekrozemberczki/NGCN)
+  - [[Python PyTorch]](https://github.com/benedekrozemberczki/MixHop-and-N-GCN)
 - **CapsGNN**
   - Capsule Graph Neural Network, ICLR'19
   - [[paper]](https://openreview.net/forum?id=Byl8BnRcYm)
@@ -213,10 +217,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **FastGCN**
   - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling 
   - [[Arxiv]](https://arxiv.org/abs/1801.10247), [[ICLR 2018 OpenReview]](https://openreview.net/forum?id=rytstxWAW)
-  - [[Python]](https://github.com/matenure/FastGCN) 
-- **GEMSEC**
-  - [GEMSEC: Graph Embedding with Self Clustering](https://arxiv.org/abs/1802.03997), arXiv 2018
-  - [[Python]](https://github.com/benedekrozemberczki/GEMSEC) 
+  - [[Python]](https://github.com/matenure/FastGCN)
 - **diff2vec**
   - [Fast Sequence Based Embedding with Diffusion Graphs](http://homepages.inf.ed.ac.uk/s1668259/papers/sequence.pdf), CompleNet 2018
   - [[Python]](https://github.com/benedekrozemberczki/diff2vec) 

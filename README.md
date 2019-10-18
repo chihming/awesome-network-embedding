@@ -157,7 +157,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - [[Python]](https://github.com/nd7141/Anonymous-Walk-Embeddings)
 - **BiNE**
   - BiNE: Bipartite Network Embedding, SIGIR'18
-  - [[paper]](http://www.comp.nus.edu.sg/~xiangnan/papers/sigir18-bipartiteNE.pdf)
+  - [[paper]](http://staff.ustc.edu.cn/~hexn/papers/sigir18-bipartiteNE.pdf)
   - [[Python]](https://github.com/clhchtcjj/BiNE)
 - **HOPE**
   - Asymmetric Transitivity Preserving Graph Embedding

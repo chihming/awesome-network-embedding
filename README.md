@@ -401,6 +401,10 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 # Conference & Workshop
 
+[Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP), **EMNLP'19**
+
+[SMORe : Modularize Graph Embedding for Recommendation](https://github.com/cnclabs/smore), **RecSys'19**
+
 [13th International Workshop on Mining and Learning with Graphs](http://www.mlgworkshop.org/2017/), **MLG'17**
 
 [WWW-18 Tutorial Representation Learning on Networks](http://snap.stanford.edu/proj/embeddings-www/), **WWW'18**

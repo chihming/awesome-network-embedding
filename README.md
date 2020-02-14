@@ -427,6 +427,8 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 [2vec-type embedding models](https://github.com/MaxwellRebo/awesome-2vec)
 
+[Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
+
 # Related Project
 
 **Stanford Network Analysis Project** [website](http://snap.stanford.edu/)

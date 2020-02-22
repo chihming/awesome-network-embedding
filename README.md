@@ -12,6 +12,23 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
+
+- **NetMF**
+  - Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and Node2Vec, WSDM 2018
+  - [[Paper]](https://keg.cs.tsinghua.edu.cn/jietang/publications/WSDM18-Qiu-et-al-NetMF-network-embedding.pdf)
+  - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub)
+- **GL2Vec**
+  - GL2vec: Graph Embedding Enriched by Line Graphs with Edge Features, ICONIP 2019
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-36718-3_1)
+  - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub)
+- **NNSED**
+  - A Non-negative Symmetric Encoder-Decoder Approach for Community Detection, CIKM 2017
+  - [[Paper]](http://www.bigdatalab.ac.cn/~shenhuawei/publications/2017/cikm-sun.pdf)
+  - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub) 
+- **SymmNMF**
+  - Symmetric Nonnegative Matrix Factorization for Graph Clustering, SDM 2012
+  - [[Paper]](https://www.cc.gatech.edu/~hpark/papers/DaDingParkSDM12.pdf)
+  - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub)
 - **GEMSEC**
   - GEMSEC: Graph Embedding with Self Clustering, ASONAM 2019
   - [[Paper]](https://arxiv.org/abs/1802.03997)
@@ -34,12 +51,13 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **MUSAE**
   - Multi-scale Attributed Node Embedding, ArXiv 2019
   - [[paper]](https://arxiv.org/abs/1909.13021)
+  - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub)
   - [[Python]](https://github.com/benedekrozemberczki/MUSAE)
 - **SEAL-CI**
   - Semi-Supervised Graph Classification: A Hierarchical Graph Perspective, WWW'19
   - [[paper]](https://arxiv.org/pdf/1904.05003.pdf)
   - [[Python PyTorch]](https://github.com/benedekrozemberczki/SEAL-CI)
-- **N-GCN**
+- **N-GCN and MixHop**
   - A Higher-Order Graph Convolutional Layer, NIPS'18 (workshop)
   - [[paper]](http://sami.haija.org/papers/high-order-gc-layer.pdf)
   - [[Python PyTorch]](https://github.com/benedekrozemberczki/MixHop-and-N-GCN)
@@ -81,6 +99,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **role2vec**
   - Learning Role-based Graph Embeddings, IJCAI'18
   - [[paper]](https://arxiv.org/pdf/1802.02896.pdf)
+  - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub)
   - [[Python]](https://github.com/benedekrozemberczki/role2vec)
 - **AttentionWalk**
   - Watch Your Step: Learning Node Embeddings via Graph Attention, NIPS'18
@@ -96,6 +115,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **SINE**
   - SINE: Scalable Incomplete Network Embedding, ICDM'18
   - [[paper]](https://github.com/benedekrozemberczki/SINE/blob/master/paper.pdf)
+  - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub)
   - [[Python PyTorch]](https://github.com/benedekrozemberczki/SINE/)
   - [[C++]](https://github.com/daokunzhang/SINE)
 - **SGCN**
@@ -105,15 +125,18 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **TENE**
   - Enhanced Network Embedding with Text Information, ICPR'18
   - [[paper]](https://github.com/benedekrozemberczki/TENE/blob/master/tene_paper.pdf)
+  - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub)
   - [[Python]](https://github.com/benedekrozemberczki/TENE) 
 - **DANMF**
   - Deep Autoencoder-like Nonnegative Matrix Factorization for Community Detection, CIKM'18
   - [[paper]](https://smartyfh.com/Documents/18DANMF.pdf)
+  - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub)
   - [[Python]](https://github.com/benedekrozemberczki/DANMF)
   - [[Matlab]](https://github.com/smartyfh/DANMF)  
 - **BANE**
   - Binarized Attributed Network Embedding, ICDM'18
   - [[paper]](https://www.researchgate.net/publication/328688614_Binarized_Attributed_Network_Embedding)
+  - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub)
   - [[Python]](https://github.com/benedekrozemberczki/BANE)
   - [[Matlab]](https://github.com/ICDM2018-BANE/BANE)
 - **GCN Insights**
@@ -136,6 +159,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **Walklets**
   - Don't Walk, Skip! Online Learning of Multi-scale Network Embeddings
   - [[paper]](https://arxiv.org/pdf/1605.02115.pdf)
+  - [[Python Karateclub]](https://github.com/benedekrozemberczki/karateclub)  
   - [[Python]](https://github.com/benedekrozemberczki/walklets)  
 - **gat2vec**
   - gat2vec: Representation learning for attributed graphs
@@ -144,6 +168,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **FSCNMF**
   - FSCNMF: Fusing Structure and Content via Non-negative Matrix Factorization for Embedding Information Networks
   - [[paper]](https://arxiv.org/abs/1804.05313)
+  - [[Python Karateclub]](https://github.com/benedekrozemberczki/karateclub)
   - [[Python]](https://github.com/sambaranban/FSCNMF)  
   - [[Python]](https://github.com/benedekrozemberczki/FSCNMF)
 - **SIDE**
@@ -220,6 +245,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - [[Python]](https://github.com/matenure/FastGCN)
 - **diff2vec**
   - [Fast Sequence Based Embedding with Diffusion Graphs](http://homepages.inf.ed.ac.uk/s1668259/papers/sequence.pdf), CompleNet 2018
+  - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub)
   - [[Python]](https://github.com/benedekrozemberczki/diff2vec) 
 - **Poincare**
   - [Poincaré Embeddings for Learning Hierarchical Representations](https://papers.nips.cc/paper/7213-poincare-embeddings-for-learning-hierarchical-representations), NIPS 2017
@@ -228,7 +254,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - [PRUNE: Preserving Proximity and Global Ranking for Network Embedding](https://papers.nips.cc/paper/7110-prune-preserving-proximity-and-global-ranking-for-network-embedding), NIPS 2017
   - [[code]](https://github.com/ntumslab/PRUNE)
 - **ASNE**
-  - Attributed Social Network Embedding, arxiv'17
+  - Attributed Social Network Embedding, TKDE'18
   - [[arxiv]](https://arxiv.org/abs/1706.01860)
   - [[Python]](https://github.com/lizi-git/ASNE)
   - [[Fast Python]](https://github.com/benedekrozemberczki/ASNE)
@@ -250,10 +276,12 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - [[Python]](https://github.com/andompesta/ComE)
 - **BoostedNE**
   - [Multi-Level Network Embedding with Boosted Low-Rank Matrix Approximation](https://arxiv.org/abs/1808.08627), '18
-  - [[Python]](https://github.com/benedekrozemberczki/BoostedFactorization)  
+  - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub)
+  - [[Python]](https://github.com/benedekrozemberczki/BoostedFactorization)
 - **M-NMF**
   - Community Preserving Network Embedding, AAAI'17
-  - [[Python]](https://github.com/benedekrozemberczki/M-NMF)
+  - [[Python TensorFlow]](https://github.com/benedekrozemberczki/M-NMF)
+  - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub)
 - **GraphSAGE**
   - Inductive Representation Learning on Large Graphs, NIPS'17
   - [[arxiv]](https://arxiv.org/abs/1706.02216) [[TF]](https://github.com/williamleif/GraphSAGE) [[PyTorch]](https://github.com/williamleif/graphsage-simple/) 
@@ -304,7 +332,8 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - [[arxiv]](https://arxiv.org/abs/1603.08861) [[Python]](https://github.com/kimiyoung/planetoid)
 - **graph2vec**
   - graph2vec: Learning Distributed Representations of Graphs, KDD'17 MLGWorkshop
-  - [[arxiv]](https://arxiv.org/abs/1707.05005) [[Python]](https://github.com/benedekrozemberczki/graph2vec)
+  - [[arxiv]](https://arxiv.org/abs/1707.05005)
+  - [[Python gensim]](https://github.com/benedekrozemberczki/graph2vec) [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub)
 - **PowerWalk**
   - [PowerWalk: Scalable Personalized PageRank via Random Walks with Vertex-Centric Decomposition](http://dl.acm.org/citation.cfm?id=2983713), CIKM'16
   - [[code]](https://github.com/lqhl/PowerWalk)
@@ -319,6 +348,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   - [[Matlab]](https://github.com/ShelsonCao/GraRep)
   - [[Julia]](https://github.com/xgfs/GraRep.jl)
   - [[Python]](https://github.com/benedekrozemberczki/GraRep)
+  - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub)
 - **KB2E**
   - [Learning Entity and Relation Embeddings for Knowledge Graph Completion](http://dl.acm.org/citation.cfm?id=2886624), AAAI'15
   - [[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2015_transr.pdf) [[C++]](https://github.com/thunlp/KB2E)  [[faster version]](https://github.com/thunlp/Fast-TransX)

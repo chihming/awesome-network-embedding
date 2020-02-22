@@ -429,6 +429,8 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
 
+[LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
+
 # Related Project
 
 **Stanford Network Analysis Project** [website](http://snap.stanford.edu/)

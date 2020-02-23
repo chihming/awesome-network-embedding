@@ -12,6 +12,10 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
+- **RECT**
+  - Network Embedding with Completely-Imbalanced Labels, TKDE 2020
+  - [[Paper]](https://zhengwang100.github.io/pdf/TKDE20_wzheng.pdf)
+  - [[Python]](https://github.com/zhengwang100/RECT) 
 - **GEMSEC**
   - GEMSEC: Graph Embedding with Self Clustering, ASONAM 2019
   - [[Paper]](https://arxiv.org/abs/1802.03997)

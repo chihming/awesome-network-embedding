@@ -12,6 +12,10 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
+- **HeGAN**
+  - Adversarial Learning on Heterogeneous Information Networks, KDD 2019
+  - [[Paper]](https://fangyuan1st.github.io/paper/KDD19_HeGAN.pdf)
+  - [[Python]](https://github.com/librahu/HeGAN)
 - **NetMF**
   - Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and Node2Vec, WSDM 2018
   - [[Paper]](https://keg.cs.tsinghua.edu.cn/jietang/publications/WSDM18-Qiu-et-al-NetMF-network-embedding.pdf)

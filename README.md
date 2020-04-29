@@ -468,6 +468,8 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 [LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
 
+[awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
+
 # Related Project
 
 **Stanford Network Analysis Project** [website](http://snap.stanford.edu/)

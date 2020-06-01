@@ -12,6 +12,11 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
+- **FEATHER**
+  - Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models
+  - [[Paper]](https://arxiv.org/abs/2005.07959)
+  - [[Python]](https://github.com/benedekrozemberczki/FEATHER)
+  - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub)
 - **HeGAN**
   - Adversarial Learning on Heterogeneous Information Networks, KDD 2019
   - [[Paper]](https://fangyuan1st.github.io/paper/KDD19_HeGAN.pdf)
@@ -194,7 +199,8 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 - **HOPE**
   - Asymmetric Transitivity Preserving Graph Embedding
   - [[KDD 2016]](http://www.kdd.org/kdd2016/papers/files/rfp0184-ouA.pdf)
-  - [[Python]](https://github.com/AnryYang/HOPE) 
+  - [[Python]](https://github.com/AnryYang/HOPE)
+  - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub) 
 - **VERSE**
   - VERSE, Versatile Graph Embeddings from Similarity Measures
   - [[Arxiv]](https://arxiv.org/abs/1803.04742) [[WWW 2018]]

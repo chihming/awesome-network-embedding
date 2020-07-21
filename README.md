@@ -13,7 +13,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 
 # Paper References with the implementation(s)
 - **FEATHER**
-  - Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models
+  - Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models, CIKM 2020
   - [[Paper]](https://arxiv.org/abs/2005.07959)
   - [[Python]](https://github.com/benedekrozemberczki/FEATHER)
   - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub)

@@ -12,6 +12,10 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
 <img src="NE.png" width="480">
 
 # Paper References with the implementation(s)
+- **GraphGym**
+  - A platform for designing and evaluating Graph Neural Networks (GNN), NeurIPS 2020
+  - [[Paper]](https://proceedings.neurips.cc/paper/2020/file/c5c3d4fe6b2cc463c7d7ecba17cc9de7-Paper.pdf)
+  - [[Python]](https://github.com/snap-stanford/graphgym)
 - **FEATHER**
   - Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models, CIKM 2020
   - [[Paper]](https://arxiv.org/abs/2005.07959)

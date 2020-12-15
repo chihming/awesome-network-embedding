@@ -409,6 +409,8 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 [Walk-Steered Convolution for Graph Classification](https://arxiv.org/abs/1804.05837)
 
+[Predicting Emerging Trends in Citation Networks](https://publications.rwth-aachen.de/record/720053/files/720053.pdf) (master's thesis)
+
 [Deep Feature Learning for Graphs](https://arxiv.org/abs/1704.08829), arxiv'17
 
 [Fast Linear Model for Knowledge Graph Embeddings](https://arxiv.org/abs/1710.10881), arxiv'17
